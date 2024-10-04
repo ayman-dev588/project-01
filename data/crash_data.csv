@@ -1,0 +1,1001 @@
+accident_id,date,time,location,fatalities,vehicles_involved,weather_conditions,road_conditions,driver_age,driver_gender
+1,9/9/2020,9:12 AM,294 Crownhardt Pass,3,20,rainy,dry,52,1
+2,8/24/2013,12:44 PM,03 Bonner Terrace,10,6,sunny,snowy,16,1
+3,9/30/2020,4:28 PM,5 Forest Dale Street,0,9,rainy,dry,87,1
+4,6/10/2018,12:49 AM,93059 Raven Crossing,3,13,sunny,icy,91,1
+5,12/11/2018,11:49 AM,449 Dawn Alley,5,5,snowy,snowy,19,1
+6,1/10/2017,12:40 AM,25217 Drewry Road,2,9,rainy,icy,45,1
+7,1/13/2015,1:12 AM,61 Artisan Road,7,16,sunny,snowy,92,1
+8,9/23/2018,8:58 PM,138 Clove Parkway,8,11,rainy,snowy,86,1
+9,8/13/2017,4:12 AM,767 Boyd Plaza,1,10,rainy,dry,96,1
+10,1/6/2016,9:52 AM,3950 Welch Alley,9,4,foggy,snowy,41,1
+11,4/21/2016,10:34 AM,30 Ryan Lane,9,11,snowy,dry,22,1
+12,10/20/2012,7:11 AM,909 Dorton Circle,5,11,foggy,dry,46,1
+13,4/14/2017,7:35 AM,7 Bashford Parkway,1,5,foggy,dry,51,1
+14,6/3/2012,2:25 PM,76 Steensland Center,1,10,snowy,snowy,47,1
+15,2/1/2010,2:09 AM,70781 Moose Hill,8,11,foggy,wet,34,1
+16,4/14/2010,7:35 PM,01 Rowland Plaza,4,1,sunny,icy,72,1
+17,4/26/2018,12:01 PM,1 Summerview Street,2,12,foggy,wet,52,1
+18,8/29/2016,8:14 AM,1 Kipling Road,10,11,foggy,snowy,76,1
+19,3/10/2012,5:00 AM,23 Darwin Circle,7,3,sunny,dry,46,1
+20,8/15/2010,5:07 AM,079 Shelley Trail,4,12,snowy,dry,90,1
+21,5/30/2017,9:49 AM,05506 Autumn Leaf Park,0,19,foggy,dry,52,1
+22,8/19/2013,8:19 AM,2 Texas Crossing,2,4,foggy,dry,80,1
+23,3/4/2015,3:46 AM,731 Duke Road,7,11,snowy,wet,63,1
+24,2/18/2012,4:41 AM,8 Thierer Park,5,1,foggy,snowy,87,1
+25,7/30/2020,1:52 PM,872 Straubel Circle,4,6,snowy,snowy,77,1
+26,11/17/2018,8:50 PM,5 Northridge Crossing,0,15,rainy,wet,70,1
+27,1/7/2013,12:16 AM,3066 Marquette Parkway,1,1,sunny,icy,32,1
+28,6/4/2020,9:31 PM,68391 Pennsylvania Road,9,4,rainy,snowy,30,1
+29,9/17/2012,8:55 PM,30 Badeau Park,3,17,snowy,snowy,64,1
+30,3/22/2020,7:50 PM,18 Stoughton Pass,2,2,rainy,icy,86,1
+31,6/16/2012,4:24 PM,807 Jackson Avenue,5,1,foggy,icy,31,1
+32,4/8/2017,6:41 PM,59065 Lerdahl Drive,2,8,foggy,snowy,64,1
+33,6/28/2018,11:09 PM,6 Blue Bill Park Road,10,5,sunny,wet,19,1
+34,7/28/2020,4:08 PM,011 Autumn Leaf Court,9,11,sunny,wet,66,1
+35,4/24/2019,7:06 AM,49792 Pawling Junction,0,14,snowy,snowy,33,1
+36,11/3/2011,10:29 AM,7563 Holy Cross Court,9,13,snowy,icy,29,1
+37,6/7/2011,5:48 AM,2229 Aberg Place,5,2,snowy,snowy,58,1
+38,2/24/2013,5:49 PM,2 Bashford Point,1,4,rainy,icy,94,1
+39,1/12/2010,5:01 AM,5441 Mcbride Hill,5,19,snowy,dry,61,1
+40,3/8/2016,5:47 PM,012 Acker Terrace,4,5,rainy,snowy,24,1
+41,10/6/2015,2:06 PM,9437 Pierstorff Center,1,4,snowy,wet,40,1
+42,11/1/2015,6:21 AM,61 Anniversary Plaza,6,8,sunny,snowy,21,1
+43,6/19/2013,8:14 PM,5 Comanche Trail,8,16,rainy,icy,75,1
+44,11/12/2015,5:30 AM,4667 Morning Place,4,18,rainy,snowy,20,1
+45,7/23/2019,12:47 PM,698 Mandrake Trail,0,2,rainy,wet,57,1
+46,8/19/2012,3:09 PM,91510 Cordelia Plaza,9,16,snowy,wet,37,1
+47,1/12/2017,4:15 AM,676 Shelley Alley,9,12,snowy,snowy,93,1
+48,10/5/2014,12:55 PM,624 Di Loreto Hill,8,1,foggy,snowy,89,1
+49,7/30/2019,3:21 AM,637 Milwaukee Street,9,2,rainy,dry,63,1
+50,1/31/2016,7:08 PM,7 Maryland Court,9,11,rainy,wet,43,1
+51,4/1/2010,6:20 PM,7555 Everett Plaza,9,4,foggy,icy,57,1
+52,2/14/2012,11:26 AM,87337 Pleasure Street,4,2,foggy,snowy,65,1
+53,5/5/2010,6:51 AM,5 American Ash Point,1,13,snowy,snowy,82,1
+54,8/19/2020,9:49 AM,6361 Summit Street,7,5,rainy,snowy,60,1
+55,4/4/2018,3:22 PM,11 Duke Point,5,16,snowy,dry,52,1
+56,4/29/2013,4:14 AM,2405 Moose Terrace,10,8,foggy,wet,66,1
+57,12/17/2012,2:54 AM,744 Myrtle Trail,10,4,sunny,icy,67,1
+58,12/19/2011,7:25 AM,5924 Corry Terrace,5,16,foggy,wet,17,1
+59,7/29/2019,7:51 PM,3 Glendale Point,1,17,rainy,snowy,52,1
+60,5/24/2013,4:51 AM,6 Hanover Way,6,16,sunny,wet,88,1
+61,4/11/2012,6:08 AM,30 Scoville Point,2,3,rainy,icy,81,1
+62,2/21/2010,7:42 AM,25206 Farwell Crossing,6,7,foggy,snowy,36,1
+63,12/14/2014,5:13 AM,78 Loftsgordon Junction,5,2,foggy,snowy,30,1
+64,6/11/2010,6:00 PM,0 Ilene Trail,4,15,rainy,wet,26,1
+65,12/24/2017,7:40 PM,188 Golf View Street,2,12,foggy,snowy,32,1
+66,8/11/2016,11:51 AM,5 Mockingbird Drive,7,10,rainy,dry,99,1
+67,6/24/2013,9:47 AM,2073 Stang Drive,5,4,rainy,dry,28,1
+68,1/29/2012,10:20 AM,0 Sycamore Road,0,5,rainy,wet,84,1
+69,10/25/2018,5:42 AM,63 Darwin Pass,9,16,rainy,dry,82,1
+70,8/26/2017,11:21 AM,49 Derek Trail,5,10,rainy,wet,75,1
+71,8/29/2015,8:31 PM,786 Portage Road,9,3,sunny,snowy,56,1
+72,6/23/2017,1:41 AM,99437 Swallow Terrace,0,6,sunny,dry,64,1
+73,7/31/2013,10:40 AM,066 Westerfield Alley,3,20,snowy,wet,71,1
+74,4/11/2013,12:46 AM,20 Fairview Place,5,6,foggy,icy,26,1
+75,10/17/2016,6:21 PM,49709 Ridgeway Trail,9,13,rainy,wet,28,1
+76,12/23/2012,7:25 PM,8 Lighthouse Bay Pass,5,18,snowy,wet,37,1
+77,1/12/2019,11:21 PM,82500 Walton Crossing,3,12,sunny,icy,75,1
+78,7/4/2013,4:23 PM,6326 Fordem Road,6,8,rainy,icy,66,1
+79,4/26/2019,12:34 AM,6084 Northland Trail,8,17,sunny,icy,73,1
+80,12/31/2010,9:31 PM,1 American Ash Street,8,2,snowy,wet,68,1
+81,12/17/2020,12:06 AM,829 Coolidge Road,1,4,rainy,icy,27,1
+82,9/24/2010,7:49 AM,5 Shasta Point,1,10,sunny,dry,49,1
+83,6/1/2015,3:57 PM,3 Pearson Avenue,9,19,snowy,wet,30,1
+84,2/17/2016,4:54 PM,70021 Rieder Lane,7,6,rainy,icy,82,1
+85,11/6/2020,8:17 AM,0433 Vidon Alley,4,7,sunny,dry,96,1
+86,2/28/2017,8:56 PM,06234 Hovde Crossing,1,1,snowy,icy,18,1
+87,11/21/2019,10:16 AM,6867 Quincy Park,4,11,sunny,wet,23,1
+88,6/4/2018,7:32 AM,2 Brentwood Crossing,0,8,foggy,icy,32,1
+89,4/25/2019,6:48 PM,19 Monica Lane,5,1,foggy,snowy,51,1
+90,11/12/2020,8:45 PM,8193 Oxford Crossing,10,18,sunny,wet,84,1
+91,2/24/2018,4:17 AM,614 Rowland Street,6,2,rainy,icy,70,1
+92,6/12/2010,6:30 PM,41284 Northview Avenue,7,16,snowy,wet,84,1
+93,1/8/2016,3:16 PM,6781 Nancy Court,4,8,sunny,snowy,56,1
+94,11/15/2017,9:14 AM,2741 Mcguire Street,4,14,sunny,snowy,87,1
+95,5/4/2010,1:04 AM,807 Old Gate Plaza,2,16,snowy,wet,61,1
+96,2/6/2013,12:49 AM,6 Banding Road,6,12,sunny,icy,46,1
+97,5/8/2010,7:51 AM,2 Packers Crossing,10,12,foggy,wet,79,1
+98,5/8/2010,1:33 AM,07 Dahle Drive,6,7,foggy,dry,33,1
+99,3/14/2014,5:49 PM,3762 Hollow Ridge Street,0,9,sunny,wet,88,1
+100,7/1/2013,5:17 AM,12212 Waywood Road,5,10,rainy,snowy,73,1
+101,8/24/2018,11:17 PM,3 7th Way,7,3,sunny,dry,40,1
+102,3/27/2018,11:07 PM,30 Marquette Pass,1,12,sunny,wet,65,1
+103,5/24/2015,4:00 PM,0516 Bowman Street,1,5,sunny,wet,80,1
+104,2/12/2019,12:21 PM,6200 Aberg Terrace,4,3,snowy,snowy,37,1
+105,6/24/2020,2:55 PM,29301 Nobel Trail,2,19,foggy,wet,52,1
+106,11/17/2013,9:30 AM,7 Springview Court,4,1,sunny,dry,61,1
+107,1/4/2015,4:34 AM,20 Twin Pines Plaza,9,19,rainy,dry,24,1
+108,9/10/2011,7:55 AM,6274 Waubesa Avenue,1,13,foggy,icy,95,1
+109,6/15/2018,9:08 PM,7324 Truax Pass,1,19,sunny,icy,52,1
+110,10/30/2017,3:53 PM,5 Mcguire Street,10,17,snowy,dry,89,1
+111,6/26/2013,4:01 PM,26 Magdeline Alley,10,5,sunny,wet,83,1
+112,12/4/2019,8:32 AM,046 Superior Circle,3,6,sunny,wet,71,1
+113,7/13/2014,8:57 PM,142 Clyde Gallagher Junction,3,1,foggy,dry,70,1
+114,4/29/2019,7:33 PM,4924 Sunbrook Place,8,12,sunny,dry,87,1
+115,11/3/2017,8:57 AM,79402 Bellgrove Park,3,20,rainy,snowy,70,1
+116,6/29/2017,11:55 AM,1515 Village Trail,9,9,sunny,icy,59,1
+117,8/17/2018,10:47 PM,4 Bultman Parkway,3,19,sunny,dry,79,1
+118,3/8/2018,1:02 AM,708 Dovetail Lane,2,13,snowy,wet,80,1
+119,11/1/2010,5:23 PM,0 Upham Circle,8,7,sunny,wet,76,1
+120,1/4/2017,3:49 AM,9 Kropf Hill,4,13,rainy,snowy,56,1
+121,8/16/2013,1:25 AM,6980 Muir Alley,9,16,sunny,wet,37,1
+122,7/2/2014,8:17 PM,73292 Doe Crossing Street,4,17,sunny,icy,89,1
+123,6/29/2017,12:05 AM,0685 Spaight Trail,8,11,foggy,snowy,87,1
+124,9/16/2016,5:50 PM,4738 Forest Run Plaza,3,10,snowy,dry,17,1
+125,8/3/2011,8:35 AM,288 Lien Terrace,10,13,snowy,dry,45,1
+126,8/2/2019,2:21 PM,5 Dawn Parkway,5,15,snowy,wet,90,1
+127,11/19/2016,1:19 AM,0112 Mifflin Road,8,4,snowy,icy,34,1
+128,10/3/2010,5:52 AM,09 Butterfield Trail,0,14,rainy,dry,49,1
+129,5/14/2011,10:45 AM,20322 Buhler Lane,7,16,snowy,dry,71,1
+130,6/14/2018,12:48 PM,7 Sachtjen Way,3,13,foggy,dry,24,1
+131,12/26/2011,9:50 AM,12986 Pine View Hill,10,18,sunny,wet,70,1
+132,8/25/2015,10:22 AM,90979 Butternut Point,7,18,foggy,wet,95,1
+133,1/24/2016,11:36 PM,8 Duke Hill,1,7,rainy,wet,52,1
+134,11/9/2015,10:54 AM,667 Jenna Way,7,11,snowy,dry,38,1
+135,3/29/2013,6:15 AM,7 Rieder Plaza,6,11,snowy,icy,75,1
+136,12/20/2010,11:12 AM,069 Lukken Alley,10,20,rainy,icy,31,1
+137,4/23/2017,1:04 PM,96566 Sloan Alley,2,16,snowy,snowy,60,1
+138,5/9/2012,2:55 AM,8 Scott Lane,10,13,rainy,dry,88,1
+139,3/2/2017,11:45 AM,16 Del Sol Circle,5,19,snowy,dry,52,1
+140,5/24/2014,8:01 PM,938 Ronald Regan Lane,8,20,rainy,snowy,33,1
+141,1/11/2018,5:57 AM,8784 1st Hill,4,10,snowy,wet,26,1
+142,10/25/2012,6:57 AM,575 Roxbury Avenue,4,18,snowy,dry,56,1
+143,8/14/2017,2:17 PM,9 Dawn Court,1,14,sunny,dry,28,1
+144,7/25/2020,12:43 AM,86 Meadow Ridge Pass,1,5,foggy,dry,81,1
+145,11/29/2015,4:28 AM,82014 Randy Circle,7,15,rainy,snowy,31,1
+146,4/15/2017,9:56 AM,7217 Riverside Street,3,20,snowy,wet,98,1
+147,1/17/2019,9:56 AM,51616 Lindbergh Park,1,15,sunny,icy,64,1
+148,11/13/2013,5:21 PM,265 Jackson Trail,9,15,foggy,snowy,65,1
+149,10/15/2019,12:21 AM,65811 Mallory Terrace,7,13,rainy,wet,56,1
+150,1/16/2013,8:20 AM,453 Maywood Avenue,7,20,sunny,icy,66,1
+151,8/15/2011,5:07 PM,04608 Lotheville Drive,0,19,rainy,wet,38,1
+152,11/15/2015,10:51 PM,188 Northport Court,0,18,sunny,icy,87,1
+153,5/27/2018,6:42 AM,48159 Fuller Center,6,16,foggy,snowy,43,1
+154,12/30/2012,4:15 AM,8375 Bowman Terrace,4,9,foggy,dry,50,1
+155,4/29/2010,1:09 AM,22543 Old Shore Parkway,2,5,sunny,dry,51,1
+156,9/8/2014,11:55 AM,35 Grim Point,4,20,foggy,dry,84,1
+157,3/19/2020,11:07 PM,864 Hermina Point,1,17,snowy,wet,47,1
+158,11/2/2018,5:23 AM,7 Summit Parkway,6,5,sunny,wet,94,1
+159,5/3/2019,6:42 AM,843 Upham Terrace,2,20,rainy,wet,88,1
+160,3/25/2015,12:35 AM,5 Prairieview Place,1,10,foggy,icy,85,1
+161,3/26/2010,6:56 AM,85 Starling Court,5,13,snowy,dry,44,1
+162,5/6/2018,4:56 AM,06459 Commercial Hill,0,9,foggy,wet,66,1
+163,12/10/2020,10:22 AM,8394 Blaine Center,2,14,sunny,icy,68,1
+164,3/27/2011,8:26 AM,48618 Express Trail,1,18,foggy,wet,66,1
+165,12/15/2019,1:47 PM,1 Stang Trail,3,6,foggy,dry,57,1
+166,4/14/2018,8:14 PM,437 Loftsgordon Street,10,18,foggy,icy,96,1
+167,7/8/2016,11:41 PM,06155 Farragut Avenue,5,7,foggy,icy,86,1
+168,2/16/2010,3:13 AM,1 Colorado Pass,0,20,rainy,icy,52,1
+169,9/28/2019,11:46 AM,01445 Arrowood Crossing,4,14,snowy,snowy,25,1
+170,7/20/2014,9:59 AM,7352 Dexter Pass,1,2,sunny,snowy,35,1
+171,3/14/2014,2:19 AM,853 Mccormick Lane,5,12,sunny,icy,39,1
+172,8/7/2017,4:18 PM,539 Northview Road,2,6,sunny,icy,78,1
+173,12/26/2012,6:14 PM,535 Comanche Junction,8,14,rainy,icy,57,1
+174,7/17/2017,1:01 AM,57238 Ludington Crossing,7,18,snowy,wet,59,1
+175,1/3/2015,11:35 PM,6513 Fieldstone Street,10,16,foggy,wet,52,1
+176,9/10/2018,4:46 AM,2 Lake View Plaza,10,6,snowy,wet,33,1
+177,4/22/2014,3:05 PM,0 Cherokee Alley,8,16,rainy,icy,52,1
+178,7/9/2012,10:21 PM,01 Petterle Circle,3,11,snowy,dry,95,1
+179,7/19/2014,1:23 AM,68 Manufacturers Plaza,3,15,rainy,wet,83,1
+180,6/16/2017,9:26 AM,457 Mitchell Pass,5,10,rainy,dry,80,1
+181,12/25/2012,1:51 AM,055 Village Pass,5,10,foggy,snowy,53,1
+182,11/7/2014,6:27 PM,7 Stoughton Hill,8,7,snowy,icy,66,1
+183,7/10/2013,9:05 PM,286 Graceland Hill,6,16,snowy,icy,40,1
+184,4/8/2018,10:46 PM,30 Vernon Lane,2,3,snowy,dry,56,1
+185,6/17/2013,8:10 PM,123 Kropf Parkway,8,2,sunny,wet,41,1
+186,3/10/2017,7:18 AM,778 Sullivan Place,1,12,foggy,wet,17,1
+187,10/13/2015,7:38 PM,6 Grim Junction,9,17,snowy,snowy,56,1
+188,2/9/2016,10:22 AM,96 Twin Pines Hill,9,18,sunny,wet,19,1
+189,10/11/2012,4:45 PM,9 Springview Parkway,10,19,sunny,snowy,97,1
+190,2/20/2018,2:55 AM,822 Dayton Pass,1,19,snowy,icy,49,1
+191,8/21/2016,2:53 PM,02996 Ryan Circle,9,14,sunny,snowy,84,1
+192,4/21/2017,6:03 AM,4 Bluestem Alley,6,7,rainy,icy,34,1
+193,10/25/2013,2:50 PM,1980 Everett Avenue,9,15,snowy,dry,67,1
+194,2/3/2018,5:11 PM,372 Ohio Circle,9,13,sunny,snowy,32,1
+195,5/3/2014,6:58 PM,64 Rieder Parkway,10,16,sunny,dry,62,1
+196,10/21/2013,5:33 PM,0 Oriole Avenue,7,6,snowy,icy,69,1
+197,12/28/2010,5:19 AM,0372 Kenwood Lane,9,9,snowy,snowy,84,1
+198,9/5/2020,1:22 AM,53226 Lotheville Court,3,15,sunny,snowy,58,1
+199,4/25/2013,11:38 PM,40339 Lyons Center,10,20,rainy,dry,54,1
+200,3/19/2016,1:54 PM,81951 Coleman Avenue,5,4,foggy,dry,76,1
+201,4/26/2015,8:00 PM,47360 Dixon Center,4,10,rainy,icy,53,1
+202,7/8/2014,10:17 AM,4676 La Follette Hill,9,16,snowy,icy,97,1
+203,11/29/2013,1:50 PM,832 Golf Course Terrace,5,17,snowy,snowy,69,1
+204,12/28/2017,1:55 AM,3240 Shopko Street,5,15,snowy,snowy,75,1
+205,1/5/2015,10:40 AM,977 Superior Crossing,6,3,snowy,snowy,91,1
+206,2/10/2020,12:40 PM,012 Stuart Trail,7,16,foggy,snowy,89,1
+207,5/8/2014,5:35 AM,42 Anderson Trail,2,20,foggy,wet,40,1
+208,3/25/2013,9:51 AM,55394 Harbort Lane,6,4,snowy,icy,91,1
+209,8/26/2016,10:40 AM,07996 Golden Leaf Lane,3,20,foggy,icy,60,1
+210,11/30/2013,6:32 AM,85 Garrison Hill,1,7,sunny,dry,32,1
+211,8/20/2019,1:50 PM,67501 Jackson Center,7,20,rainy,snowy,22,1
+212,3/31/2010,1:04 AM,64082 American Ash Crossing,9,5,rainy,dry,68,1
+213,6/21/2011,7:47 AM,015 Dahle Place,9,20,snowy,icy,93,1
+214,12/21/2015,8:03 AM,97 Acker Road,9,14,foggy,icy,69,1
+215,10/7/2011,2:14 AM,96504 Sutteridge Plaza,5,16,foggy,wet,31,1
+216,11/22/2018,11:56 AM,37 Village Green Point,9,6,rainy,icy,87,1
+217,1/1/2017,5:31 PM,2 Memorial Plaza,3,19,foggy,wet,68,1
+218,5/31/2017,11:52 PM,2497 Montana Parkway,1,10,sunny,wet,38,1
+219,12/10/2020,1:17 PM,8 Fulton Lane,9,9,foggy,snowy,34,1
+220,5/16/2011,1:57 AM,7599 Johnson Road,9,20,snowy,snowy,70,1
+221,7/17/2011,6:10 AM,957 Columbus Junction,8,13,sunny,snowy,77,1
+222,11/10/2018,12:55 AM,688 Hovde Road,10,2,foggy,wet,73,1
+223,3/15/2017,9:02 AM,479 Northport Avenue,4,19,snowy,icy,71,1
+224,2/20/2013,7:58 PM,86306 Shopko Park,10,14,snowy,wet,89,1
+225,1/12/2012,10:55 AM,82 Mifflin Park,0,18,rainy,snowy,76,1
+226,4/9/2017,9:05 AM,02 Waubesa Terrace,8,16,sunny,wet,59,1
+227,8/13/2012,5:02 PM,0330 Jana Pass,6,10,foggy,snowy,72,1
+228,10/26/2011,2:06 AM,39269 Pierstorff Park,0,6,sunny,icy,21,1
+229,11/10/2019,2:33 AM,68436 Mccormick Court,6,17,rainy,icy,87,1
+230,5/26/2013,9:34 AM,77441 Vidon Hill,0,8,rainy,wet,47,1
+231,7/15/2011,8:56 PM,459 Harbort Junction,9,20,rainy,icy,78,1
+232,6/12/2020,4:30 AM,7 Westridge Hill,10,18,rainy,dry,36,1
+233,12/5/2016,2:50 AM,49817 Sloan Pass,1,12,sunny,icy,77,1
+234,11/24/2011,7:36 AM,964 Dovetail Drive,0,4,foggy,wet,80,1
+235,9/1/2017,6:35 PM,47 Judy Trail,4,10,foggy,wet,84,1
+236,6/11/2011,8:21 PM,21 Springview Court,9,12,snowy,wet,58,1
+237,6/14/2011,4:14 PM,33829 Clove Street,7,3,foggy,icy,69,1
+238,6/29/2017,7:11 PM,0 Paget Terrace,7,19,sunny,snowy,93,1
+239,7/13/2011,7:41 PM,98 Clyde Gallagher Lane,5,12,rainy,wet,76,1
+240,7/8/2013,7:57 PM,06354 Scoville Center,0,3,foggy,icy,84,1
+241,5/5/2019,8:02 AM,5 Killdeer Avenue,6,7,sunny,dry,40,1
+242,5/21/2019,1:48 AM,9 Center Plaza,8,9,foggy,dry,78,1
+243,3/28/2017,7:56 AM,87 Loeprich Road,3,8,sunny,icy,27,1
+244,7/22/2011,10:27 AM,75 Blaine Parkway,1,11,snowy,icy,55,1
+245,2/22/2014,10:30 PM,6 Menomonie Crossing,0,18,snowy,icy,48,1
+246,5/20/2011,11:34 AM,112 Bowman Junction,0,10,foggy,icy,89,1
+247,2/20/2014,1:27 AM,612 Pawling Parkway,6,16,sunny,icy,93,1
+248,8/9/2014,11:17 PM,9 Nobel Place,8,1,sunny,icy,87,1
+249,5/15/2015,5:29 PM,5 Welch Point,8,15,foggy,wet,49,1
+250,9/5/2013,3:44 AM,471 Dakota Court,10,11,rainy,dry,96,1
+251,4/24/2013,7:48 PM,4 Ryan Trail,0,13,rainy,icy,49,1
+252,6/6/2012,8:17 AM,83832 Union Parkway,0,14,sunny,dry,32,1
+253,9/12/2019,10:11 AM,6 Lindbergh Circle,8,20,snowy,snowy,99,1
+254,8/29/2014,2:47 PM,3351 Lakewood Street,4,9,rainy,icy,64,1
+255,6/30/2012,3:54 AM,47 Saint Paul Center,8,5,foggy,wet,19,1
+256,11/30/2014,2:32 PM,13126 Dapin Junction,10,18,foggy,wet,78,1
+257,9/16/2016,1:31 AM,1 Memorial Trail,8,8,rainy,snowy,89,1
+258,1/18/2018,7:59 AM,5870 Hoard Parkway,9,3,rainy,wet,37,1
+259,6/5/2015,4:34 AM,21241 Packers Junction,0,2,rainy,snowy,19,1
+260,7/30/2014,5:21 AM,54 Debra Park,8,9,snowy,icy,23,1
+261,11/28/2019,10:13 AM,5 Alpine Hill,6,11,rainy,wet,84,1
+262,11/14/2016,4:17 PM,672 Maple Lane,2,6,foggy,wet,87,1
+263,1/11/2011,7:14 PM,915 Buell Place,8,1,sunny,snowy,38,1
+264,12/1/2014,9:31 AM,3747 Sage Avenue,4,9,sunny,snowy,80,1
+265,10/28/2013,10:38 PM,8751 Elka Crossing,0,6,sunny,wet,91,1
+266,5/11/2013,5:48 AM,29 4th Park,8,5,rainy,snowy,36,1
+267,12/18/2013,10:16 PM,2 Rigney Road,8,16,sunny,dry,96,1
+268,8/19/2020,9:37 PM,915 Hermina Lane,7,10,sunny,icy,57,1
+269,10/26/2016,4:26 AM,69 Marcy Crossing,1,9,snowy,dry,69,1
+270,5/17/2018,2:32 AM,5025 Little Fleur Drive,3,14,sunny,snowy,75,1
+271,1/13/2011,3:27 PM,76 Bluejay Junction,2,5,rainy,dry,44,1
+272,7/8/2013,8:29 AM,7 Amoth Plaza,1,12,sunny,icy,74,1
+273,11/6/2010,8:46 PM,044 Sutteridge Avenue,7,20,snowy,wet,57,1
+274,6/4/2012,4:09 AM,2982 Russell Park,8,6,rainy,wet,84,1
+275,6/3/2018,5:58 AM,384 Red Cloud Way,9,10,sunny,icy,34,1
+276,4/26/2013,5:26 AM,8536 Eastwood Avenue,8,7,foggy,snowy,61,1
+277,10/1/2015,2:12 AM,19 Oxford Junction,3,11,rainy,dry,31,1
+278,10/18/2015,5:15 AM,268 Eliot Terrace,0,2,sunny,snowy,49,1
+279,4/10/2014,10:16 AM,81271 Roth Pass,6,20,rainy,wet,81,1
+280,2/1/2014,8:22 PM,3 Welch Pass,9,20,rainy,dry,62,1
+281,1/31/2013,1:08 PM,51 Kinsman Lane,0,3,rainy,snowy,55,1
+282,1/24/2018,1:27 PM,9199 Mcguire Plaza,8,3,snowy,icy,55,1
+283,2/15/2020,5:39 AM,933 Manufacturers Center,10,15,foggy,dry,53,1
+284,7/1/2012,2:52 PM,7696 Corscot Court,5,12,rainy,snowy,41,1
+285,3/27/2017,3:16 AM,9052 Ludington Alley,2,2,snowy,dry,93,1
+286,9/18/2020,6:55 PM,525 Glacier Hill Trail,2,3,foggy,wet,34,1
+287,2/22/2012,12:46 AM,86 Riverside Drive,10,5,rainy,snowy,47,1
+288,1/26/2011,8:18 AM,597 Northport Park,1,10,foggy,dry,62,1
+289,8/11/2010,7:36 PM,27 Blaine Way,3,13,sunny,icy,86,1
+290,1/17/2011,5:12 PM,367 Alpine Circle,5,5,rainy,wet,26,1
+291,9/11/2012,12:48 PM,0 Acker Park,6,9,foggy,dry,17,1
+292,6/1/2019,3:14 AM,86 Moulton Crossing,6,4,sunny,icy,40,1
+293,1/8/2012,1:27 PM,26360 Russell Parkway,1,20,foggy,snowy,30,1
+294,2/11/2013,6:42 PM,1 Myrtle Parkway,6,13,snowy,icy,42,1
+295,8/8/2010,3:00 PM,635 Clarendon Alley,1,19,rainy,snowy,53,1
+296,10/19/2015,12:17 AM,56803 Menomonie Alley,5,17,foggy,snowy,32,1
+297,10/10/2012,2:17 AM,94 Little Fleur Parkway,8,4,rainy,snowy,96,1
+298,3/31/2011,10:12 AM,7240 Bobwhite Park,10,15,foggy,icy,98,1
+299,7/22/2018,11:07 AM,560 Sutteridge Place,5,20,sunny,snowy,39,1
+300,2/10/2015,6:36 AM,7 Shasta Crossing,10,6,sunny,icy,89,1
+301,1/7/2014,1:59 PM,28 Steensland Street,5,5,snowy,dry,41,1
+302,2/21/2010,1:26 PM,65765 Mifflin Court,9,15,sunny,snowy,71,1
+303,1/5/2011,5:57 PM,026 Welch Way,4,13,snowy,icy,56,1
+304,4/20/2017,11:52 AM,6 Rockefeller Point,5,20,sunny,snowy,57,1
+305,3/5/2010,12:32 AM,84687 Menomonie Crossing,9,19,sunny,dry,90,1
+306,7/17/2013,3:06 PM,2 Continental Drive,2,12,foggy,dry,78,1
+307,1/15/2014,10:22 PM,37 Walton Alley,10,8,foggy,dry,86,1
+308,1/18/2013,4:10 AM,6630 Thackeray Point,8,1,rainy,wet,33,1
+309,1/1/2011,11:48 AM,40047 Artisan Park,1,14,rainy,snowy,58,1
+310,12/22/2014,9:27 AM,73 Lindbergh Road,2,11,sunny,wet,38,1
+311,4/24/2013,6:43 AM,4 Basil Court,7,10,snowy,snowy,57,1
+312,11/15/2015,2:44 PM,2 Union Junction,5,6,sunny,snowy,97,1
+313,6/23/2020,7:03 AM,71 Pepper Wood Crossing,9,8,rainy,snowy,21,1
+314,2/5/2020,1:23 AM,38 Sutherland Court,2,1,foggy,wet,86,1
+315,8/24/2011,12:59 AM,45570 Tennyson Street,3,18,rainy,dry,81,1
+316,9/27/2011,11:47 PM,0 Bartelt Way,0,15,foggy,wet,91,1
+317,9/5/2015,4:47 AM,04 Northview Crossing,10,3,foggy,wet,38,1
+318,1/28/2020,12:05 AM,807 Mallory Place,5,10,foggy,wet,77,1
+319,9/27/2019,10:48 PM,978 Sachtjen Way,1,15,rainy,wet,28,1
+320,9/8/2014,5:15 AM,57706 Chive Drive,8,20,snowy,dry,75,1
+321,8/1/2013,2:42 PM,1 Quincy Trail,3,13,rainy,dry,46,1
+322,1/22/2011,8:28 AM,4 Burrows Center,7,4,foggy,dry,21,1
+323,9/23/2018,2:07 AM,34 Briar Crest Crossing,9,19,sunny,snowy,38,1
+324,12/3/2015,12:57 AM,50 Bay Avenue,10,9,sunny,icy,24,1
+325,8/6/2013,10:59 AM,6496 Lighthouse Bay Park,2,4,foggy,snowy,20,1
+326,2/27/2017,4:14 AM,60163 Debs Junction,10,11,sunny,snowy,66,1
+327,6/14/2014,8:09 PM,28065 Mariners Cove Point,0,5,foggy,wet,85,1
+328,11/29/2019,8:26 AM,343 Crownhardt Point,3,17,sunny,wet,29,1
+329,3/9/2014,11:24 PM,96120 Karstens Avenue,6,12,rainy,snowy,44,1
+330,12/16/2012,7:47 AM,8 Shelley Road,0,7,rainy,wet,30,1
+331,3/5/2016,5:53 AM,6419 Colorado Pass,9,8,snowy,icy,77,1
+332,4/18/2016,11:18 AM,51 Doe Crossing Alley,3,7,rainy,snowy,79,1
+333,9/29/2014,8:14 AM,3072 Manufacturers Park,9,17,rainy,icy,78,1
+334,7/20/2013,2:40 AM,28812 Victoria Pass,4,15,foggy,dry,65,1
+335,5/8/2020,4:08 PM,9835 Sheridan Circle,3,9,rainy,icy,90,1
+336,4/6/2013,11:58 AM,4130 Merrick Point,5,19,foggy,snowy,45,1
+337,9/10/2014,10:51 AM,666 Debra Drive,5,2,sunny,wet,82,1
+338,11/22/2017,10:33 AM,5660 Scott Center,10,13,foggy,wet,77,1
+339,10/6/2014,4:08 PM,9 Homewood Plaza,7,12,snowy,wet,76,1
+340,8/1/2018,7:40 PM,7546 Longview Avenue,6,3,rainy,dry,68,1
+341,6/10/2019,4:01 PM,47157 1st Trail,1,4,sunny,icy,31,1
+342,3/30/2010,3:06 PM,4752 Mallory Court,8,9,sunny,dry,84,1
+343,2/17/2016,3:31 PM,4534 Clemons Avenue,0,18,sunny,dry,93,1
+344,5/24/2014,8:45 AM,77 Barnett Plaza,10,15,snowy,icy,73,1
+345,5/8/2015,8:47 PM,1 Starling Hill,9,1,snowy,icy,54,1
+346,9/15/2010,6:44 PM,66 Welch Trail,1,2,snowy,icy,74,1
+347,6/26/2013,2:01 AM,69 Kinsman Pass,7,1,foggy,icy,70,1
+348,10/5/2017,5:17 AM,0 Nancy Road,0,11,foggy,wet,25,1
+349,8/18/2012,6:12 AM,51 Londonderry Parkway,6,18,sunny,icy,22,1
+350,2/13/2019,12:19 PM,6 Jenna Park,1,7,rainy,snowy,47,1
+351,12/24/2014,10:11 PM,67277 Kedzie Pass,8,18,snowy,wet,54,1
+352,4/21/2012,7:53 AM,04 Pierstorff Parkway,2,10,sunny,dry,62,1
+353,8/6/2018,2:05 PM,35 Spohn Point,7,7,rainy,icy,93,1
+354,8/2/2011,8:23 PM,86 Pankratz Point,9,3,sunny,icy,34,1
+355,2/3/2016,6:38 PM,763 Florence Alley,7,1,foggy,icy,65,1
+356,4/23/2016,1:43 PM,22 Bowman Parkway,5,14,rainy,snowy,29,1
+357,8/11/2012,7:54 PM,4021 Dottie Point,3,15,foggy,snowy,32,1
+358,2/10/2016,8:30 PM,64 Declaration Plaza,10,12,foggy,dry,30,1
+359,5/29/2016,11:24 PM,7179 Lighthouse Bay Trail,5,18,snowy,dry,66,1
+360,4/21/2014,3:48 PM,40710 Cody Court,8,8,snowy,wet,83,1
+361,10/7/2017,1:00 AM,97 Independence Court,8,8,sunny,icy,85,1
+362,12/21/2017,7:44 AM,02 Union Street,1,9,foggy,snowy,39,1
+363,5/31/2017,9:23 PM,31426 Prairie Rose Junction,8,15,sunny,icy,92,1
+364,10/21/2014,1:32 AM,348 Reinke Pass,2,20,snowy,dry,19,1
+365,6/29/2010,12:08 AM,9 Banding Avenue,5,7,snowy,wet,34,1
+366,6/1/2013,8:40 AM,8992 Kingsford Hill,2,9,snowy,snowy,66,1
+367,5/20/2019,4:14 PM,636 Glendale Park,6,17,snowy,dry,88,1
+368,6/12/2012,3:03 PM,57483 Banding Center,3,9,sunny,icy,80,1
+369,3/7/2010,9:33 PM,8 Jana Avenue,3,19,snowy,snowy,49,1
+370,3/19/2013,4:48 AM,956 Judy Crossing,5,10,snowy,dry,52,1
+371,1/8/2019,7:32 PM,04 Sunnyside Lane,8,20,sunny,wet,46,1
+372,6/29/2016,6:18 PM,55 Duke Plaza,1,9,sunny,wet,80,1
+373,2/8/2017,9:57 AM,97754 Sherman Junction,10,1,sunny,dry,80,1
+374,1/21/2010,6:34 AM,22 Messerschmidt Pass,4,19,foggy,dry,89,1
+375,12/13/2018,3:25 PM,97939 Jana Terrace,4,7,foggy,snowy,58,1
+376,2/8/2013,9:11 PM,6839 Jana Point,2,6,foggy,wet,29,1
+377,12/3/2015,10:31 AM,58 Northfield Junction,8,20,rainy,dry,43,1
+378,10/19/2018,11:42 PM,5765 Dakota Hill,8,7,sunny,wet,18,1
+379,1/8/2019,10:01 AM,574 Evergreen Way,1,6,rainy,icy,22,1
+380,2/2/2015,9:55 AM,3 Forest Run Plaza,7,12,rainy,icy,93,1
+381,9/17/2019,2:02 AM,958 Golf Way,7,14,sunny,wet,65,1
+382,12/9/2011,3:25 AM,142 1st Center,10,13,snowy,snowy,32,1
+383,10/10/2016,8:03 PM,75 Pankratz Circle,8,4,snowy,icy,35,1
+384,8/8/2013,2:19 PM,9 Lawn Terrace,6,2,snowy,snowy,66,1
+385,3/22/2014,10:03 PM,8 Maple Wood Point,4,5,rainy,snowy,95,1
+386,6/11/2015,4:24 AM,54 Jenifer Terrace,9,13,snowy,wet,27,1
+387,5/30/2010,8:27 AM,8 Glacier Hill Way,5,9,foggy,icy,62,1
+388,9/1/2020,1:21 PM,45 Nevada Place,3,16,foggy,wet,85,1
+389,8/2/2013,5:02 PM,83 Mitchell Park,8,2,foggy,icy,73,1
+390,3/11/2013,6:58 PM,97 Sullivan Avenue,3,18,rainy,wet,24,1
+391,12/13/2020,6:47 PM,074 Swallow Point,9,3,snowy,dry,82,1
+392,3/6/2018,3:36 PM,5749 Delladonna Street,3,8,foggy,wet,27,1
+393,8/22/2020,9:59 AM,44 Linden Crossing,6,13,sunny,wet,70,1
+394,7/4/2011,2:26 AM,359 Melody Avenue,4,17,sunny,wet,33,1
+395,8/30/2019,12:20 PM,745 Badeau Drive,5,19,foggy,snowy,90,1
+396,4/17/2017,6:20 PM,2 Luster Park,5,16,rainy,snowy,31,1
+397,6/4/2019,2:33 AM,6 Shelley Street,6,5,sunny,snowy,84,1
+398,3/12/2014,10:22 PM,850 Del Sol Parkway,8,15,snowy,dry,32,1
+399,2/15/2015,10:05 AM,80913 Jenifer Court,9,19,foggy,icy,83,1
+400,6/11/2015,2:27 PM,561 Carioca Park,10,18,rainy,dry,53,1
+401,9/7/2020,4:20 AM,180 Sherman Circle,3,6,sunny,snowy,30,1
+402,3/17/2015,12:40 AM,6 Sunfield Place,2,18,snowy,wet,38,1
+403,10/27/2018,11:21 AM,5284 Clove Circle,1,20,foggy,dry,77,1
+404,5/21/2011,2:55 AM,124 West Point,8,3,snowy,snowy,47,1
+405,1/8/2013,10:15 PM,23 Bartelt Place,8,3,sunny,icy,86,1
+406,4/30/2013,8:11 PM,00 Redwing Lane,3,8,sunny,dry,24,1
+407,3/3/2013,3:47 PM,44 Ohio Alley,0,16,rainy,icy,78,1
+408,7/4/2011,3:55 AM,20661 Esch Junction,8,16,rainy,dry,60,1
+409,4/25/2019,10:57 AM,314 Sycamore Crossing,6,6,rainy,dry,28,1
+410,1/18/2013,1:28 PM,4253 Hansons Park,6,20,snowy,wet,90,1
+411,7/23/2010,9:21 PM,31617 Ronald Regan Court,6,15,foggy,icy,54,1
+412,5/22/2020,12:04 PM,560 Miller Lane,7,3,foggy,wet,96,1
+413,7/9/2016,11:51 AM,448 Lotheville Circle,5,1,rainy,wet,99,1
+414,12/7/2010,9:56 PM,4 Milwaukee Junction,6,16,snowy,wet,26,1
+415,10/21/2019,8:18 AM,9905 Toban Road,5,8,snowy,dry,90,1
+416,10/1/2020,11:59 AM,9 Bartillon Parkway,3,19,snowy,dry,26,1
+417,10/25/2014,12:03 AM,91 Hintze Avenue,6,7,rainy,icy,87,1
+418,9/19/2020,3:56 PM,824 Brickson Park Street,5,11,foggy,dry,77,1
+419,6/4/2016,2:41 PM,21901 Hovde Drive,6,1,sunny,dry,25,1
+420,10/15/2010,10:37 PM,40 Dunning Point,10,17,sunny,wet,81,1
+421,5/27/2020,11:01 PM,75542 Green Ridge Circle,9,12,snowy,snowy,99,1
+422,11/4/2010,9:47 AM,11 Red Cloud Pass,9,16,rainy,snowy,67,1
+423,1/7/2016,9:51 PM,2880 Glendale Center,4,17,snowy,icy,56,1
+424,1/5/2018,12:24 AM,96 Talisman Court,8,12,sunny,dry,48,1
+425,2/18/2019,12:39 PM,50542 Acker Lane,7,12,rainy,snowy,66,1
+426,4/24/2018,4:51 PM,63964 Vera Hill,4,2,snowy,icy,27,1
+427,11/12/2015,6:49 AM,9 Goodland Hill,9,15,foggy,snowy,24,1
+428,3/23/2014,12:03 AM,8963 Corry Drive,10,7,snowy,snowy,31,1
+429,8/31/2016,1:09 PM,2654 Westerfield Trail,9,10,rainy,wet,61,1
+430,2/3/2020,1:36 AM,81770 Lindbergh Lane,0,2,snowy,icy,91,1
+431,10/31/2019,7:00 AM,1810 Eliot Drive,6,15,snowy,dry,74,1
+432,2/10/2014,2:08 AM,781 Grim Park,1,6,rainy,dry,63,1
+433,6/9/2014,1:40 PM,66258 Debra Plaza,4,11,snowy,wet,47,1
+434,4/14/2011,5:21 AM,3345 Reinke Drive,4,17,snowy,wet,21,1
+435,12/5/2013,2:12 PM,06 Meadow Valley Court,1,5,rainy,wet,67,1
+436,3/13/2011,11:46 PM,07 Kedzie Center,1,18,snowy,wet,38,1
+437,3/14/2017,10:48 PM,82029 Briar Crest Street,3,3,foggy,dry,17,1
+438,6/20/2013,6:52 AM,50484 Mandrake Point,1,8,rainy,dry,56,1
+439,3/28/2020,7:49 PM,76214 Harper Lane,3,20,sunny,icy,65,1
+440,7/30/2020,8:43 AM,62 Hallows Way,10,9,foggy,icy,65,1
+441,8/4/2016,8:38 PM,73 Riverside Terrace,7,9,sunny,dry,21,1
+442,12/21/2010,10:29 PM,69617 Northfield Junction,10,2,foggy,dry,83,1
+443,4/19/2012,2:36 PM,34 Glacier Hill Junction,0,20,rainy,dry,37,1
+444,4/3/2019,11:50 PM,08180 Hintze Junction,0,1,foggy,wet,51,1
+445,11/13/2012,6:48 AM,795 Clyde Gallagher Street,8,11,sunny,icy,54,1
+446,3/1/2014,1:58 AM,864 Hayes Circle,9,19,snowy,dry,70,1
+447,3/3/2010,12:11 PM,453 Scoville Terrace,3,18,foggy,snowy,25,1
+448,10/17/2014,5:48 AM,5279 Village Green Hill,1,5,snowy,wet,45,1
+449,11/27/2014,1:08 PM,7 4th Place,2,9,foggy,snowy,47,1
+450,5/24/2014,10:27 AM,948 Cherokee Pass,1,11,rainy,wet,19,1
+451,10/18/2011,4:20 PM,8523 Barby Hill,8,8,foggy,icy,43,1
+452,11/13/2014,9:13 AM,39739 Harbort Road,3,20,rainy,wet,28,1
+453,11/3/2013,5:06 PM,6011 Darwin Center,7,17,foggy,snowy,61,1
+454,11/15/2020,3:44 PM,876 Roxbury Point,5,17,snowy,wet,56,1
+455,6/16/2011,1:28 PM,117 Bashford Hill,7,15,sunny,snowy,52,1
+456,8/6/2012,7:07 PM,13706 Corscot Point,2,17,sunny,snowy,34,1
+457,2/14/2014,4:31 PM,61 Parkside Park,5,11,rainy,icy,34,1
+458,7/1/2015,7:05 PM,9 Hanson Plaza,3,20,sunny,wet,63,1
+459,7/23/2020,3:53 PM,26 Lakewood Gardens Trail,8,18,sunny,snowy,44,1
+460,12/26/2010,2:11 PM,228 Dovetail Trail,6,1,sunny,dry,53,1
+461,1/20/2017,12:16 AM,4807 Westridge Center,2,13,rainy,snowy,41,1
+462,11/13/2010,8:38 PM,5064 Sutteridge Junction,5,17,foggy,wet,29,1
+463,7/7/2017,10:13 AM,17910 South Alley,2,8,foggy,icy,24,1
+464,6/26/2015,9:22 PM,33166 Merry Way,0,18,snowy,dry,58,1
+465,12/11/2017,4:13 PM,6165 Fulton Road,0,1,rainy,dry,98,1
+466,4/27/2015,5:01 AM,44340 Hallows Street,0,4,sunny,icy,17,1
+467,2/3/2015,6:28 PM,1 4th Point,7,8,foggy,snowy,59,1
+468,10/25/2015,6:40 AM,94 Golf View Hill,5,20,foggy,wet,36,1
+469,1/27/2012,3:34 AM,1 Columbus Point,1,19,snowy,wet,55,1
+470,5/29/2015,6:38 PM,65 Havey Crossing,6,17,sunny,wet,81,1
+471,2/28/2018,7:47 PM,52 American Ash Road,6,8,foggy,wet,93,1
+472,6/29/2012,12:31 AM,4 Quincy Lane,8,13,snowy,snowy,24,1
+473,2/18/2018,10:26 AM,25 Longview Park,10,5,rainy,wet,94,1
+474,10/6/2020,4:22 PM,7 Rusk Lane,5,7,foggy,snowy,25,1
+475,8/4/2020,7:18 AM,8 Rusk Lane,10,15,rainy,dry,79,1
+476,5/11/2010,10:20 AM,3651 Eliot Circle,2,13,foggy,dry,17,1
+477,4/23/2011,12:03 PM,5 Onsgard Circle,2,3,foggy,icy,55,1
+478,7/25/2017,5:07 AM,2 Birchwood Parkway,0,17,foggy,icy,88,1
+479,9/11/2016,10:59 PM,96 Melby Avenue,1,2,snowy,wet,36,1
+480,1/28/2012,12:43 AM,463 Iowa Court,8,12,rainy,icy,52,1
+481,2/9/2010,10:53 AM,7417 Montana Crossing,7,5,rainy,icy,79,1
+482,6/24/2018,7:50 AM,6 Rusk Junction,2,8,snowy,icy,80,1
+483,7/20/2012,5:41 AM,82527 Del Mar Trail,8,11,foggy,snowy,57,1
+484,7/7/2014,9:28 PM,637 Novick Terrace,9,9,rainy,icy,95,1
+485,8/21/2010,9:06 AM,9220 Sullivan Lane,4,20,foggy,wet,74,1
+486,5/17/2012,4:31 AM,8659 Hermina Parkway,0,17,foggy,dry,55,1
+487,1/16/2016,11:13 AM,45 Schiller Road,9,14,foggy,icy,76,1
+488,11/17/2012,8:53 AM,8709 Schlimgen Street,0,3,foggy,snowy,56,1
+489,12/28/2014,6:53 AM,21197 Surrey Trail,8,10,rainy,snowy,44,1
+490,10/10/2011,4:12 AM,63812 Continental Hill,0,13,rainy,icy,39,1
+491,2/7/2013,10:17 AM,7 Utah Parkway,10,11,sunny,wet,63,1
+492,10/4/2019,2:36 AM,31634 Huxley Point,0,5,snowy,dry,25,1
+493,7/23/2020,10:28 AM,4 Stone Corner Way,9,11,foggy,wet,42,1
+494,9/3/2014,4:48 PM,1745 Gerald Way,9,9,rainy,dry,21,1
+495,4/28/2019,3:12 PM,8089 Westend Road,7,6,foggy,icy,80,1
+496,4/18/2014,1:01 AM,35 Prairieview Junction,4,10,sunny,wet,16,1
+497,4/25/2019,5:06 PM,1 Summerview Drive,6,3,snowy,wet,92,1
+498,1/4/2015,3:50 PM,31675 Porter Avenue,0,15,snowy,icy,17,1
+499,3/10/2012,5:53 PM,62 Eastwood Crossing,8,12,foggy,wet,21,1
+500,8/11/2019,9:13 AM,4162 Mcbride Trail,0,3,snowy,icy,40,1
+501,12/20/2016,9:04 PM,917 American Ash Road,3,12,sunny,snowy,38,1
+502,6/11/2011,1:25 PM,0289 Pawling Pass,7,7,snowy,dry,72,1
+503,5/4/2016,11:36 AM,18 Hanover Road,7,9,snowy,wet,28,1
+504,5/23/2016,4:35 AM,43 Maple Way,9,13,sunny,wet,17,1
+505,10/2/2018,12:34 AM,40 Troy Junction,8,6,rainy,wet,83,1
+506,10/21/2016,5:40 AM,95976 Crowley Trail,8,1,sunny,snowy,80,1
+507,2/27/2019,7:32 AM,89552 Sycamore Way,3,15,rainy,snowy,37,1
+508,4/14/2019,10:42 AM,930 Del Mar Parkway,9,7,snowy,icy,55,1
+509,2/22/2014,12:39 AM,4817 Lukken Point,8,8,rainy,icy,78,1
+510,10/11/2020,8:09 PM,09 Columbus Crossing,8,16,rainy,dry,49,1
+511,9/27/2013,10:08 AM,3163 Declaration Alley,3,4,rainy,wet,92,1
+512,4/11/2013,6:29 PM,4698 Spaight Center,8,11,sunny,dry,35,1
+513,10/25/2013,4:44 AM,62 Florence Circle,6,17,snowy,icy,37,1
+514,4/28/2015,3:33 AM,8781 Dayton Parkway,2,8,sunny,wet,79,1
+515,2/9/2011,1:13 PM,10367 Sherman Trail,3,10,foggy,snowy,19,1
+516,9/30/2011,4:30 AM,664 Lake View Junction,4,9,sunny,snowy,46,1
+517,7/15/2020,7:55 AM,15596 La Follette Hill,6,11,sunny,wet,65,1
+518,2/15/2015,6:11 PM,90 Hanson Avenue,1,5,rainy,wet,48,1
+519,3/13/2019,11:53 AM,863 Sachs Terrace,5,5,snowy,dry,73,1
+520,4/27/2012,11:21 PM,093 Vernon Park,4,8,snowy,icy,98,1
+521,12/31/2011,12:52 AM,61 Katie Crossing,4,20,rainy,wet,59,1
+522,8/17/2012,1:39 PM,22437 Huxley Drive,4,10,foggy,snowy,22,1
+523,3/20/2015,3:56 PM,81803 Fulton Parkway,7,2,sunny,snowy,64,1
+524,7/12/2012,8:55 PM,21 Novick Park,10,18,foggy,dry,56,1
+525,12/26/2011,11:52 AM,49324 Portage Pass,3,19,rainy,snowy,67,1
+526,7/22/2014,6:49 PM,1 Towne Lane,3,13,rainy,wet,93,1
+527,2/11/2012,12:14 AM,69 David Hill,0,9,foggy,icy,23,1
+528,6/23/2010,12:25 PM,6 Muir Place,2,9,foggy,snowy,21,1
+529,8/7/2017,9:26 AM,65 Mosinee Circle,6,18,foggy,snowy,42,1
+530,4/6/2011,11:07 PM,34 Portage Crossing,8,17,sunny,snowy,30,1
+531,5/24/2011,3:00 AM,3179 Arizona Plaza,1,16,snowy,wet,70,1
+532,10/29/2015,5:52 AM,827 Hoepker Hill,9,6,snowy,icy,37,1
+533,9/5/2015,12:25 AM,9991 Mendota Way,5,6,snowy,dry,54,1
+534,11/20/2015,11:52 AM,054 Union Avenue,0,17,foggy,dry,26,1
+535,4/6/2014,12:34 PM,91946 Tomscot Plaza,8,13,foggy,dry,58,1
+536,4/6/2011,1:12 AM,392 Hansons Crossing,3,20,foggy,snowy,66,1
+537,11/13/2012,1:16 PM,90 Shelley Pass,0,6,foggy,snowy,67,1
+538,4/29/2010,11:03 PM,48 Bartillon Court,9,7,snowy,wet,96,1
+539,10/14/2012,2:25 PM,1 Boyd Hill,4,17,sunny,snowy,17,1
+540,11/6/2018,6:27 AM,9 Cody Center,8,7,rainy,icy,48,1
+541,1/17/2011,7:23 AM,17 Continental Terrace,5,20,snowy,icy,21,1
+542,12/15/2010,9:18 PM,5119 Derek Drive,5,4,sunny,snowy,38,1
+543,4/22/2010,5:38 PM,27398 Donald Hill,6,13,snowy,dry,95,1
+544,2/2/2015,5:42 AM,8 Eastlawn Lane,6,17,snowy,icy,66,1
+545,9/10/2014,5:20 AM,0487 Blue Bill Park Avenue,1,8,sunny,icy,61,1
+546,9/27/2018,6:44 AM,966 High Crossing Center,7,4,sunny,snowy,21,1
+547,12/3/2016,4:03 AM,7 Atwood Drive,3,15,rainy,icy,28,1
+548,12/16/2014,1:21 AM,16328 Ridge Oak Way,8,6,rainy,wet,25,1
+549,1/6/2020,2:33 AM,37 Dunning Way,1,3,rainy,icy,96,1
+550,8/9/2020,11:39 PM,093 Paget Drive,7,3,snowy,icy,89,1
+551,12/31/2014,5:55 AM,6 Waubesa Junction,9,13,sunny,wet,46,1
+552,7/8/2012,12:33 PM,1 Hoffman Park,5,4,sunny,snowy,43,1
+553,2/22/2014,5:16 PM,40 Welch Center,4,12,snowy,icy,26,1
+554,10/9/2010,7:47 PM,815 Eastlawn Court,8,9,foggy,snowy,52,1
+555,2/6/2010,6:52 AM,161 Bultman Parkway,3,7,rainy,wet,59,1
+556,12/17/2017,12:26 PM,09 Menomonie Parkway,1,4,rainy,snowy,24,1
+557,11/17/2019,5:34 PM,355 Buena Vista Hill,0,20,rainy,dry,62,1
+558,11/14/2014,7:26 AM,11148 School Terrace,3,8,rainy,dry,78,1
+559,4/27/2010,7:03 AM,7962 Grim Plaza,3,3,sunny,icy,49,1
+560,12/18/2013,4:14 PM,6 Calypso Junction,8,20,rainy,dry,76,1
+561,3/31/2010,9:13 PM,609 Larry Place,8,19,snowy,dry,93,1
+562,8/25/2013,11:40 AM,0 Pond Place,7,6,snowy,wet,61,1
+563,3/29/2018,5:12 AM,7 Glendale Court,1,19,rainy,dry,79,1
+564,11/4/2016,2:58 PM,4413 Ilene Circle,0,2,snowy,dry,38,1
+565,9/22/2010,1:15 AM,92905 Raven Circle,10,16,snowy,wet,48,1
+566,2/2/2018,11:24 PM,71 Stuart Circle,10,17,snowy,snowy,73,1
+567,6/5/2012,11:23 AM,884 Bartillon Trail,7,12,snowy,wet,22,1
+568,4/27/2019,10:28 PM,1571 Northview Avenue,1,1,foggy,icy,60,1
+569,11/10/2015,8:50 AM,50 Lyons Center,4,12,sunny,icy,73,1
+570,10/7/2012,5:04 AM,4231 Susan Place,2,12,snowy,snowy,44,1
+571,10/16/2015,2:08 PM,3 Express Parkway,8,15,snowy,wet,95,1
+572,9/11/2011,3:19 PM,3801 Hoffman Park,4,16,sunny,icy,46,1
+573,12/2/2018,8:48 PM,1 Warrior Hill,7,15,foggy,icy,99,1
+574,6/12/2015,8:56 AM,60050 Pankratz Alley,10,13,foggy,icy,38,1
+575,6/13/2014,6:02 PM,551 Hooker Street,0,6,foggy,snowy,59,1
+576,12/15/2014,6:00 AM,2 Scofield Way,8,10,foggy,dry,50,1
+577,10/24/2017,4:15 PM,9652 Prairie Rose Point,4,20,rainy,icy,93,1
+578,3/3/2015,12:58 PM,06857 Onsgard Drive,3,16,foggy,snowy,82,1
+579,7/14/2013,2:18 PM,58 Green Road,10,10,snowy,dry,28,1
+580,11/8/2016,10:38 AM,06 Elgar Avenue,0,11,snowy,dry,57,1
+581,12/18/2020,6:22 PM,68 Golf Course Junction,5,4,snowy,dry,33,1
+582,12/9/2020,8:11 PM,828 Duke Parkway,2,3,foggy,icy,46,1
+583,8/10/2017,6:29 AM,22984 Loftsgordon Avenue,10,16,rainy,dry,75,1
+584,10/18/2012,2:15 AM,6 Clarendon Hill,4,16,snowy,wet,99,1
+585,4/24/2013,5:28 PM,2747 Division Parkway,4,3,foggy,dry,20,1
+586,6/9/2017,2:58 AM,509 Doe Crossing Point,7,20,sunny,icy,57,1
+587,1/29/2020,3:27 AM,76410 Fordem Place,0,19,snowy,snowy,42,1
+588,10/9/2016,10:29 AM,57 Thompson Parkway,8,7,snowy,dry,23,1
+589,4/25/2018,7:40 PM,4898 Village Green Alley,0,20,sunny,wet,28,1
+590,6/15/2020,12:26 AM,04 Manitowish Point,7,14,sunny,wet,49,1
+591,9/1/2020,4:28 PM,3375 Delladonna Hill,7,1,snowy,dry,78,1
+592,2/19/2017,11:47 AM,89598 Cody Plaza,0,20,snowy,icy,26,1
+593,2/12/2017,8:06 AM,3619 Norway Maple Road,2,18,snowy,icy,35,1
+594,8/11/2020,8:27 AM,267 Columbus Lane,9,13,foggy,dry,92,1
+595,11/15/2017,1:30 AM,6180 Pepper Wood Trail,3,19,sunny,dry,78,1
+596,10/12/2012,12:44 AM,549 Glacier Hill Road,7,1,sunny,dry,28,1
+597,1/17/2012,4:52 PM,2 Maple Terrace,4,14,rainy,icy,73,1
+598,11/30/2015,3:37 AM,30 Linden Way,9,15,foggy,icy,91,1
+599,12/13/2015,9:55 AM,2442 Towne Drive,9,9,snowy,icy,72,1
+600,1/23/2011,7:10 AM,853 Ludington Circle,2,8,rainy,wet,81,1
+601,3/12/2010,9:13 AM,2 Homewood Trail,7,15,snowy,snowy,33,1
+602,12/9/2017,6:23 AM,38347 Graceland Drive,7,13,sunny,wet,59,1
+603,4/13/2019,8:39 PM,57296 Waxwing Junction,6,1,sunny,icy,73,1
+604,1/28/2010,2:43 PM,45168 Stoughton Hill,8,5,sunny,dry,37,1
+605,10/9/2020,9:46 AM,50020 Monument Drive,5,6,foggy,snowy,67,1
+606,4/25/2019,1:18 PM,8 Daystar Center,3,7,sunny,icy,31,1
+607,4/27/2011,12:04 AM,22621 Hauk Terrace,1,15,rainy,dry,83,1
+608,7/9/2012,11:22 PM,075 Shopko Place,1,12,snowy,icy,52,1
+609,10/22/2014,7:48 PM,5610 Coleman Pass,0,20,sunny,snowy,83,1
+610,7/10/2017,6:56 PM,4 8th Point,8,2,foggy,snowy,43,1
+611,7/24/2015,11:33 AM,7110 Express Road,4,4,snowy,snowy,89,1
+612,12/8/2018,4:27 AM,348 Leroy Trail,6,19,foggy,icy,99,1
+613,9/19/2017,5:28 AM,5 Mesta Alley,10,16,foggy,wet,33,1
+614,9/22/2018,11:02 AM,34 Vera Drive,0,3,rainy,snowy,89,1
+615,6/28/2018,1:57 AM,89 Meadow Ridge Hill,1,16,sunny,snowy,43,1
+616,2/28/2012,6:46 PM,9 Brown Parkway,6,10,foggy,icy,79,1
+617,8/10/2012,9:39 AM,069 Lien Hill,4,6,sunny,wet,58,1
+618,8/20/2020,11:11 AM,10 Clarendon Circle,1,7,snowy,icy,88,1
+619,9/5/2011,6:01 PM,782 Clemons Drive,7,5,foggy,snowy,70,1
+620,5/10/2015,3:28 AM,1860 Moland Court,1,7,snowy,icy,40,1
+621,1/19/2016,11:18 PM,4079 Mosinee Terrace,0,10,snowy,icy,75,1
+622,8/7/2019,10:01 PM,34298 Grover Circle,6,17,foggy,snowy,48,1
+623,3/23/2013,4:17 AM,022 Debs Hill,0,2,sunny,wet,24,1
+624,6/13/2013,1:13 AM,79 Pennsylvania Plaza,2,20,snowy,icy,78,1
+625,12/28/2011,1:31 AM,86 Acker Drive,4,9,sunny,wet,37,1
+626,6/18/2020,8:36 AM,617 Anniversary Center,4,15,sunny,snowy,39,1
+627,4/25/2019,4:36 AM,89 Pepper Wood Place,10,13,foggy,snowy,48,1
+628,10/22/2015,10:14 PM,4391 Boyd Road,9,10,sunny,dry,31,1
+629,11/13/2018,12:19 AM,15140 Schlimgen Terrace,0,2,sunny,dry,45,1
+630,3/30/2016,8:12 PM,38070 Prairieview Place,8,16,snowy,wet,81,1
+631,12/29/2018,2:01 PM,832 Warbler Place,9,19,rainy,dry,65,1
+632,4/20/2017,10:13 PM,2185 Derek Court,8,8,sunny,wet,75,1
+633,1/5/2020,4:34 AM,017 Bashford Pass,7,9,sunny,dry,80,1
+634,1/4/2011,6:05 PM,20 Bartelt Drive,7,20,sunny,wet,31,1
+635,7/16/2011,7:36 AM,0864 Haas Terrace,3,12,foggy,dry,86,1
+636,5/23/2015,5:02 PM,5 Namekagon Terrace,6,16,sunny,snowy,87,1
+637,3/8/2015,1:56 AM,6 Utah Street,8,17,foggy,snowy,39,1
+638,8/31/2014,3:32 AM,1 Kinsman Pass,9,3,foggy,icy,47,1
+639,11/21/2016,3:46 AM,88007 West Plaza,5,7,snowy,icy,85,1
+640,8/14/2010,8:30 AM,6 Superior Avenue,7,12,sunny,icy,61,1
+641,6/2/2015,12:42 AM,14 Scofield Alley,0,1,sunny,icy,79,1
+642,3/19/2020,11:43 PM,3 Stephen Road,3,17,rainy,snowy,61,1
+643,6/25/2010,12:06 AM,9365 8th Hill,5,16,snowy,wet,37,1
+644,7/12/2012,10:25 AM,9859 Armistice Drive,2,8,snowy,dry,84,1
+645,3/30/2020,2:12 AM,3 Darwin Parkway,2,11,snowy,snowy,55,1
+646,4/17/2012,11:01 PM,0 Grover Court,6,16,sunny,wet,83,1
+647,2/28/2020,12:12 AM,8554 Gateway Hill,2,7,snowy,dry,84,1
+648,1/8/2018,10:36 PM,689 High Crossing Avenue,2,8,snowy,wet,55,1
+649,5/17/2010,7:39 PM,8616 Corben Trail,5,16,foggy,icy,48,1
+650,6/29/2017,10:17 PM,0502 Red Cloud Hill,3,6,sunny,snowy,24,1
+651,11/4/2017,12:31 AM,2 Iowa Avenue,4,20,rainy,snowy,96,1
+652,7/22/2016,3:52 AM,48225 Grasskamp Street,3,20,snowy,wet,35,1
+653,5/31/2017,10:26 PM,027 Parkside Trail,3,20,foggy,wet,55,1
+654,7/2/2013,1:52 PM,6760 Armistice Parkway,4,13,rainy,icy,28,1
+655,6/8/2020,3:18 AM,87460 Logan Way,4,13,sunny,snowy,89,1
+656,2/1/2015,5:59 AM,642 Tennessee Terrace,2,5,foggy,dry,39,1
+657,2/10/2014,5:11 PM,5 Alpine Circle,8,3,rainy,dry,85,1
+658,12/22/2015,2:44 PM,9622 Novick Way,8,6,rainy,icy,46,1
+659,11/27/2014,5:28 PM,0 Glacier Hill Hill,7,20,foggy,wet,76,1
+660,4/26/2014,4:53 PM,3850 Hoffman Pass,0,9,foggy,dry,32,1
+661,7/24/2010,2:52 PM,26 Brown Street,4,11,rainy,dry,90,1
+662,9/24/2020,10:22 AM,73639 Bunker Hill Junction,2,3,sunny,dry,36,1
+663,9/16/2016,2:20 PM,026 Hollow Ridge Circle,0,11,sunny,wet,22,1
+664,4/5/2013,6:37 AM,78000 2nd Crossing,3,16,snowy,icy,43,1
+665,2/22/2014,2:51 AM,7397 Anthes Lane,4,12,rainy,snowy,96,1
+666,12/21/2011,12:08 PM,062 Schlimgen Pass,8,19,sunny,wet,86,1
+667,11/13/2014,1:01 AM,18418 Doe Crossing Park,2,3,foggy,icy,91,1
+668,6/26/2015,10:36 AM,8 Burning Wood Parkway,2,6,snowy,wet,49,1
+669,4/7/2016,6:42 AM,1143 Hanson Way,7,11,snowy,snowy,19,1
+670,5/19/2017,7:36 PM,54166 Green Plaza,1,5,snowy,icy,86,1
+671,12/4/2018,6:58 PM,5886 Continental Drive,7,18,sunny,dry,57,1
+672,12/21/2015,1:39 AM,2269 Tennyson Point,1,18,snowy,icy,50,1
+673,9/11/2010,1:57 AM,2478 Surrey Center,10,15,snowy,wet,78,1
+674,9/13/2017,9:53 PM,73 Dovetail Road,6,16,foggy,dry,51,1
+675,5/17/2020,3:56 PM,577 Vera Court,7,8,snowy,wet,57,1
+676,9/10/2017,5:24 PM,59 Huxley Crossing,4,5,foggy,wet,34,1
+677,3/1/2010,11:16 PM,30 Sutteridge Lane,5,4,snowy,icy,93,1
+678,6/6/2013,2:19 AM,210 Arkansas Place,8,11,rainy,icy,17,1
+679,10/20/2013,4:42 PM,545 Sutteridge Court,0,1,snowy,wet,64,1
+680,11/13/2010,7:40 AM,707 Division Drive,10,4,rainy,icy,81,1
+681,7/25/2020,10:41 AM,771 Havey Drive,5,3,rainy,snowy,98,1
+682,10/3/2020,2:23 AM,9129 Rieder Alley,9,1,snowy,wet,53,1
+683,2/12/2016,9:26 AM,28 Ridge Oak Avenue,10,5,foggy,wet,58,1
+684,2/28/2016,4:23 AM,6 Evergreen Plaza,9,8,sunny,icy,51,1
+685,12/20/2019,6:08 AM,55413 Everett Avenue,2,12,sunny,wet,40,1
+686,6/4/2017,10:57 AM,014 Chive Terrace,5,4,sunny,wet,72,1
+687,9/17/2020,8:51 AM,0081 Monica Park,3,7,sunny,snowy,26,1
+688,5/17/2019,10:04 PM,26 Maple Crossing,10,4,rainy,icy,73,1
+689,11/21/2015,7:30 AM,5051 Haas Way,1,14,rainy,dry,69,1
+690,2/9/2019,5:51 AM,0 Welch Place,2,15,sunny,dry,75,1
+691,10/25/2013,4:56 PM,75 Sommers Junction,5,8,sunny,snowy,73,1
+692,3/13/2016,9:11 PM,51 Sullivan Park,10,6,foggy,wet,76,1
+693,12/18/2017,9:42 PM,46 Schmedeman Circle,0,10,foggy,snowy,40,1
+694,6/6/2013,12:13 PM,96 Ludington Road,10,8,rainy,dry,40,1
+695,10/6/2010,9:41 AM,29 3rd Parkway,10,10,snowy,snowy,88,1
+696,3/25/2013,6:22 PM,40 Laurel Court,4,11,sunny,dry,62,1
+697,7/3/2020,3:28 AM,10 Kedzie Avenue,1,7,snowy,dry,21,1
+698,12/29/2011,6:03 PM,66900 Judy Place,2,9,snowy,dry,96,1
+699,3/27/2013,3:40 PM,17 Thierer Drive,0,6,sunny,dry,90,1
+700,10/7/2014,9:59 PM,511 Hoffman Court,9,7,sunny,wet,86,1
+701,8/30/2020,8:38 PM,344 Arkansas Crossing,6,17,rainy,dry,20,1
+702,2/1/2011,10:31 PM,03372 Vernon Avenue,7,1,rainy,snowy,56,1
+703,9/17/2011,4:42 AM,638 Cottonwood Center,3,17,foggy,dry,45,1
+704,10/20/2016,6:14 PM,2 Cody Lane,5,11,sunny,snowy,79,1
+705,5/22/2010,6:40 AM,52 Golf Course Drive,5,12,snowy,wet,77,1
+706,8/16/2014,2:05 PM,5 Lawn Plaza,5,3,sunny,icy,51,1
+707,11/16/2019,10:52 AM,2957 Almo Trail,6,13,sunny,wet,60,1
+708,9/13/2017,11:58 AM,9 Arapahoe Drive,8,8,rainy,wet,30,1
+709,11/27/2012,6:55 AM,7397 Loftsgordon Pass,4,11,rainy,wet,45,1
+710,1/17/2018,9:11 PM,061 Esker Lane,1,9,rainy,icy,56,1
+711,3/22/2010,9:28 AM,9209 Norway Maple Point,4,10,snowy,dry,52,1
+712,1/18/2011,6:55 AM,01528 Fallview Alley,1,20,rainy,icy,74,1
+713,9/23/2011,4:54 AM,79 Heffernan Avenue,4,5,foggy,wet,38,1
+714,12/19/2020,2:29 AM,01644 1st Terrace,8,4,sunny,snowy,29,1
+715,10/10/2017,1:54 AM,2542 6th Way,2,19,sunny,icy,16,1
+716,2/7/2018,3:22 PM,98 Forest Run Alley,9,15,sunny,icy,44,1
+717,1/13/2018,12:09 PM,48 Mendota Pass,10,6,foggy,icy,21,1
+718,5/4/2014,8:45 AM,2 Barnett Lane,4,9,rainy,icy,16,1
+719,3/4/2017,4:28 PM,4081 Mayfield Place,0,1,sunny,dry,18,1
+720,9/17/2011,8:37 AM,8700 Fairfield Trail,2,9,foggy,wet,45,1
+721,6/25/2019,11:02 AM,09781 Paget Drive,8,1,foggy,icy,29,1
+722,9/9/2020,9:54 AM,47137 Goodland Parkway,10,13,snowy,dry,53,1
+723,8/15/2012,1:02 PM,2709 Talmadge Center,2,3,snowy,snowy,96,1
+724,11/24/2018,3:30 AM,3406 Spenser Crossing,8,4,snowy,wet,41,1
+725,2/26/2010,10:17 AM,25119 Cottonwood Parkway,9,8,sunny,wet,92,1
+726,3/13/2015,2:27 AM,741 Moland Point,9,4,sunny,dry,80,1
+727,8/20/2018,2:42 AM,63567 Hooker Way,5,14,sunny,icy,46,1
+728,6/8/2018,5:55 AM,3595 Dahle Court,6,16,sunny,dry,49,1
+729,1/28/2019,3:29 PM,22 Redwing Trail,10,7,snowy,dry,64,1
+730,11/8/2018,11:59 AM,619 West Terrace,1,17,foggy,wet,97,1
+731,11/22/2016,7:15 PM,8 Prairie Rose Court,9,2,sunny,wet,32,1
+732,5/12/2020,1:16 PM,7 Erie Place,3,14,snowy,snowy,17,1
+733,7/3/2020,12:16 PM,310 Bunker Hill Crossing,3,3,sunny,snowy,49,1
+734,3/3/2011,7:55 AM,7 Debs Place,10,14,rainy,icy,64,1
+735,12/27/2019,12:43 PM,9 Meadow Vale Junction,6,18,foggy,snowy,64,1
+736,2/2/2017,9:38 PM,727 Logan Junction,9,3,foggy,icy,67,1
+737,6/6/2015,11:14 PM,6 Marcy Drive,0,8,sunny,dry,78,1
+738,4/1/2016,9:33 PM,99357 Kropf Circle,3,3,sunny,snowy,43,1
+739,5/19/2016,10:29 PM,36 Bashford Alley,5,12,snowy,snowy,55,1
+740,6/22/2020,4:21 AM,5684 Shoshone Terrace,6,3,rainy,dry,63,1
+741,2/6/2011,5:09 PM,1 Maple Park,7,13,foggy,snowy,87,1
+742,10/12/2016,3:43 PM,382 Pleasure Pass,3,6,foggy,dry,64,1
+743,2/2/2018,7:35 AM,18 Portage Plaza,6,19,foggy,snowy,35,1
+744,12/12/2013,2:06 AM,7915 Maywood Avenue,0,1,rainy,icy,47,1
+745,8/5/2010,3:28 PM,0254 Claremont Lane,10,11,foggy,wet,40,1
+746,11/26/2012,4:05 PM,3 Blue Bill Park Park,3,14,snowy,dry,56,1
+747,6/30/2012,2:25 AM,9734 Emmet Way,8,1,foggy,wet,61,1
+748,3/25/2017,1:46 AM,07 Derek Pass,8,11,snowy,icy,53,1
+749,3/25/2014,8:00 AM,3 Katie Lane,9,2,rainy,snowy,70,1
+750,6/1/2012,7:58 PM,064 Ryan Pass,4,2,foggy,icy,32,1
+751,12/7/2014,5:47 AM,80 Cascade Center,2,11,foggy,wet,82,1
+752,4/15/2017,5:18 PM,3236 Eastlawn Alley,10,20,foggy,wet,41,1
+753,3/26/2016,5:48 AM,1 Mitchell Lane,2,20,snowy,dry,82,1
+754,4/19/2014,5:01 AM,0 Lake View Terrace,8,13,foggy,snowy,65,1
+755,4/20/2011,1:21 PM,3966 Novick Plaza,0,2,snowy,wet,84,1
+756,4/15/2013,11:10 PM,25025 Rutledge Lane,3,4,snowy,snowy,61,1
+757,5/9/2014,1:33 PM,39 Hoepker Crossing,0,4,snowy,wet,66,1
+758,9/26/2012,11:02 AM,58082 Manley Circle,10,14,foggy,wet,48,1
+759,11/22/2013,6:38 PM,8084 Briar Crest Alley,10,16,rainy,wet,84,1
+760,9/17/2018,4:20 PM,1 Sloan Street,7,12,rainy,wet,20,1
+761,5/7/2020,7:12 AM,948 Hazelcrest Plaza,10,15,rainy,dry,47,1
+762,7/31/2017,10:37 PM,7450 Lawn Lane,6,9,rainy,wet,65,1
+763,7/21/2020,6:43 AM,81 Hoard Court,6,7,foggy,wet,70,1
+764,8/11/2010,11:59 AM,0870 Carey Alley,3,8,foggy,dry,45,1
+765,2/19/2015,5:18 AM,6748 Mosinee Street,0,13,rainy,wet,24,1
+766,1/6/2015,12:08 PM,9 Riverside Way,0,7,sunny,icy,86,1
+767,2/6/2014,10:13 AM,52 Huxley Junction,5,15,snowy,icy,26,1
+768,2/9/2013,4:42 AM,97 Doe Crossing Crossing,3,18,rainy,wet,77,1
+769,4/15/2012,5:11 AM,69 Summerview Junction,10,5,rainy,snowy,69,1
+770,12/16/2019,12:29 AM,51 Lawn Trail,10,19,snowy,snowy,89,1
+771,12/21/2010,2:37 PM,1 Burrows Trail,9,9,sunny,dry,54,1
+772,2/6/2018,1:19 AM,75413 Butterfield Pass,10,20,foggy,icy,84,1
+773,10/22/2010,11:04 PM,20 Kensington Junction,9,2,snowy,dry,85,1
+774,7/10/2015,2:49 AM,45 Goodland Center,7,6,sunny,dry,75,1
+775,9/25/2016,2:13 PM,5978 Talisman Street,2,5,sunny,icy,59,1
+776,5/15/2011,12:52 AM,0901 Susan Pass,3,1,snowy,icy,92,1
+777,4/4/2014,12:22 AM,62 Lakewood Gardens Parkway,7,13,sunny,wet,29,1
+778,4/29/2019,10:17 PM,9 Drewry Terrace,5,11,sunny,wet,70,1
+779,2/10/2017,5:12 PM,21665 School Lane,7,8,foggy,icy,36,1
+780,12/5/2016,4:10 AM,8655 Moland Center,5,6,foggy,icy,96,1
+781,7/28/2014,9:01 AM,608 David Street,6,18,sunny,dry,32,1
+782,5/4/2016,6:33 AM,71378 Hallows Circle,3,11,snowy,snowy,91,1
+783,6/29/2012,7:54 PM,18518 Vernon Junction,4,12,snowy,snowy,89,1
+784,6/7/2016,12:40 PM,4991 Oxford Point,5,20,sunny,wet,16,1
+785,9/5/2020,2:13 AM,1 Almo Junction,6,15,rainy,dry,28,1
+786,11/17/2014,7:14 AM,3 Rieder Parkway,5,19,rainy,snowy,81,1
+787,6/27/2015,9:20 AM,1 Sunbrook Junction,5,3,foggy,wet,50,1
+788,9/11/2015,1:11 AM,0 Anzinger Street,7,10,foggy,icy,43,1
+789,6/23/2010,11:52 AM,3 Dixon Lane,8,9,foggy,wet,88,1
+790,6/16/2011,3:55 PM,01 New Castle Trail,6,12,foggy,icy,24,1
+791,6/21/2018,11:58 PM,10 Heffernan Parkway,8,15,sunny,dry,27,1
+792,2/9/2013,8:01 AM,82771 Annamark Center,5,15,rainy,snowy,84,1
+793,11/5/2010,5:07 AM,472 Leroy Alley,5,11,snowy,dry,64,1
+794,7/10/2017,9:44 AM,5373 Northland Pass,6,8,snowy,wet,54,1
+795,2/9/2016,7:56 PM,04 Manufacturers Crossing,6,11,foggy,wet,61,1
+796,2/18/2014,10:44 AM,25548 Atwood Alley,8,11,sunny,icy,25,1
+797,1/2/2018,7:42 PM,4 Maple Plaza,3,18,rainy,wet,76,1
+798,3/5/2012,4:18 AM,5 Forest Run Parkway,7,17,foggy,icy,73,1
+799,10/23/2017,4:42 AM,13 Thackeray Lane,6,7,foggy,dry,48,1
+800,1/26/2018,7:35 PM,3181 Coleman Junction,7,18,sunny,snowy,54,1
+801,10/31/2020,11:53 PM,2627 Truax Park,10,1,rainy,dry,87,1
+802,5/17/2019,3:29 AM,39045 Sutherland Pass,3,18,sunny,snowy,23,1
+803,6/23/2015,11:14 PM,27199 Twin Pines Parkway,1,12,snowy,dry,73,1
+804,6/8/2015,7:45 PM,904 Moland Place,2,6,foggy,icy,38,1
+805,11/12/2011,7:39 AM,42 Oakridge Terrace,2,10,rainy,wet,43,1
+806,2/14/2010,3:49 PM,02 Transport Hill,2,10,rainy,wet,22,1
+807,8/12/2016,10:22 PM,0991 Kinsman Hill,10,19,snowy,wet,96,1
+808,9/19/2020,8:45 PM,530 Linden Pass,7,15,foggy,wet,88,1
+809,2/28/2015,1:19 PM,6 Utah Alley,2,1,sunny,dry,60,1
+810,6/9/2016,5:51 PM,75876 Stoughton Avenue,0,5,foggy,icy,83,1
+811,11/28/2015,10:18 PM,71225 Brentwood Drive,8,12,sunny,wet,78,1
+812,3/20/2010,2:44 PM,05141 Vidon Alley,3,15,foggy,snowy,87,1
+813,11/7/2013,10:48 PM,23 Gerald Way,3,11,snowy,dry,67,1
+814,7/10/2019,12:39 AM,62 Hansons Hill,5,13,snowy,icy,24,1
+815,10/6/2018,9:13 AM,2250 Bunker Hill Point,7,2,foggy,dry,27,1
+816,6/1/2014,7:35 PM,207 Hovde Point,0,18,rainy,snowy,42,1
+817,6/2/2014,10:41 AM,27902 American Ash Point,7,18,rainy,dry,26,1
+818,2/28/2020,3:11 PM,06090 Northport Parkway,4,8,snowy,dry,57,1
+819,3/17/2020,10:42 AM,8834 Ronald Regan Pass,10,19,foggy,icy,96,1
+820,11/4/2011,4:33 AM,94087 Lakewood Gardens Terrace,5,20,sunny,dry,28,1
+821,7/1/2010,4:49 PM,0 Eastwood Crossing,4,3,foggy,dry,49,1
+822,2/1/2011,11:23 PM,818 Springview Lane,4,17,foggy,dry,81,1
+823,10/3/2020,12:50 PM,7926 Eagan Hill,10,13,snowy,dry,69,1
+824,12/29/2013,8:37 AM,78 Utah Crossing,5,15,rainy,dry,95,1
+825,7/6/2015,12:31 AM,175 Old Gate Hill,8,12,rainy,dry,87,1
+826,7/20/2011,2:10 AM,33 Bellgrove Parkway,5,16,foggy,dry,16,1
+827,6/22/2014,7:34 AM,4 Oak Valley Pass,0,14,foggy,snowy,56,1
+828,1/5/2013,10:27 PM,095 Warner Crossing,10,17,snowy,dry,45,1
+829,2/25/2018,11:27 PM,42878 Grim Hill,8,2,rainy,icy,16,1
+830,1/3/2011,12:36 PM,58 Hoffman Road,8,3,rainy,wet,19,1
+831,5/8/2010,5:20 PM,25500 Schmedeman Road,10,12,foggy,dry,77,1
+832,7/19/2010,12:13 AM,5 Algoma Pass,2,4,rainy,dry,20,1
+833,12/14/2015,9:47 AM,3 Dawn Plaza,6,16,snowy,dry,82,1
+834,6/4/2016,12:14 AM,04 Cottonwood Avenue,7,9,rainy,icy,38,1
+835,4/22/2013,4:37 PM,6770 Jenifer Crossing,7,4,snowy,snowy,77,1
+836,5/22/2010,1:56 AM,90 Porter Alley,0,6,foggy,snowy,97,1
+837,10/18/2011,3:25 AM,27 Shasta Street,9,2,sunny,icy,82,1
+838,9/8/2019,4:18 AM,981 Hintze Trail,9,19,sunny,snowy,34,1
+839,6/6/2017,6:58 AM,8 Ronald Regan Junction,8,1,foggy,snowy,98,1
+840,9/15/2014,8:40 PM,831 Chive Crossing,5,8,sunny,wet,51,1
+841,8/15/2014,9:15 AM,5 Old Shore Way,3,4,foggy,snowy,22,1
+842,9/6/2013,2:37 AM,71180 Loomis Plaza,5,6,sunny,snowy,16,1
+843,1/13/2018,5:45 PM,16 Arkansas Drive,6,11,foggy,wet,97,1
+844,1/19/2017,9:33 PM,008 Stuart Court,8,19,snowy,icy,34,1
+845,3/11/2019,10:02 PM,1 Buell Point,5,6,rainy,snowy,70,1
+846,8/20/2013,10:52 AM,2 Stone Corner Place,8,13,sunny,dry,30,1
+847,6/21/2012,9:17 AM,3 Graceland Road,9,20,sunny,icy,59,1
+848,11/27/2015,7:46 AM,88387 Helena Terrace,4,7,foggy,dry,84,1
+849,7/10/2014,6:45 AM,06 Declaration Trail,2,12,foggy,dry,22,1
+850,11/14/2015,1:14 PM,6236 Bunker Hill Alley,2,10,foggy,wet,55,1
+851,5/10/2020,11:33 PM,230 Eastlawn Center,7,11,foggy,snowy,42,1
+852,10/14/2020,11:17 AM,6 Lighthouse Bay Court,5,13,rainy,dry,56,1
+853,9/19/2016,1:37 PM,46 Dennis Trail,0,3,foggy,snowy,67,1
+854,2/7/2015,4:17 PM,542 Blue Bill Park Pass,8,3,rainy,dry,56,1
+855,12/14/2015,7:09 AM,776 Arkansas Point,9,12,rainy,icy,21,1
+856,5/29/2020,2:31 PM,56733 Kingsford Point,1,6,rainy,wet,41,1
+857,1/24/2014,3:25 AM,4 Ridge Oak Lane,6,5,sunny,wet,74,1
+858,5/18/2016,9:29 AM,357 Hooker Junction,9,6,rainy,dry,29,1
+859,2/18/2014,5:54 PM,07 Beilfuss Way,1,12,sunny,dry,30,1
+860,3/25/2014,8:48 AM,978 Springview Plaza,2,6,snowy,wet,41,1
+861,5/7/2011,12:58 PM,30 Emmet Avenue,3,12,foggy,wet,94,1
+862,1/16/2018,12:29 AM,048 Weeping Birch Drive,9,4,snowy,dry,28,1
+863,10/2/2018,1:41 AM,2 Buell Parkway,1,9,rainy,wet,76,1
+864,2/12/2015,2:25 AM,1 Redwing Lane,6,9,foggy,snowy,66,1
+865,5/25/2015,1:48 PM,4 Cottonwood Road,10,18,snowy,snowy,71,1
+866,11/6/2014,10:01 PM,29 Loeprich Plaza,5,4,foggy,icy,29,1
+867,7/17/2013,6:32 AM,957 Becker Avenue,5,5,snowy,dry,63,1
+868,10/1/2011,6:27 AM,25011 Morning Center,10,10,snowy,dry,77,1
+869,11/30/2012,10:02 AM,7 Union Lane,6,6,sunny,snowy,50,1
+870,3/10/2017,2:59 AM,56 Moose Street,9,8,sunny,dry,97,1
+871,3/9/2012,10:13 PM,83 Kenwood Circle,1,19,sunny,icy,28,1
+872,10/26/2010,7:06 PM,67413 Springs Alley,10,9,sunny,dry,44,1
+873,2/27/2014,10:09 AM,6446 Coolidge Place,3,15,rainy,snowy,22,1
+874,1/11/2010,4:51 AM,51 Summerview Way,3,18,snowy,icy,67,1
+875,10/31/2015,4:40 AM,61 8th Terrace,1,9,foggy,snowy,98,1
+876,3/28/2017,8:24 AM,7724 Main Junction,3,5,snowy,snowy,51,1
+877,9/3/2019,2:47 AM,05599 Starling Crossing,9,13,sunny,dry,75,1
+878,11/9/2020,7:41 AM,99 Bellgrove Alley,10,17,snowy,wet,69,1
+879,8/17/2019,1:25 PM,872 New Castle Junction,0,15,snowy,snowy,51,1
+880,6/15/2012,7:25 AM,65 Fair Oaks Court,8,5,rainy,wet,96,1
+881,2/19/2014,4:26 AM,1 Mitchell Terrace,3,13,sunny,icy,80,1
+882,11/19/2018,11:25 AM,91028 Bluejay Crossing,7,18,snowy,wet,55,1
+883,8/17/2010,7:11 PM,5832 Ramsey Court,5,14,foggy,icy,21,1
+884,3/22/2018,3:06 AM,032 Del Mar Road,7,1,sunny,dry,40,1
+885,1/14/2015,9:24 AM,63 Nelson Circle,9,4,sunny,snowy,87,1
+886,2/18/2018,4:59 PM,26487 Brentwood Place,7,2,sunny,wet,37,1
+887,4/24/2018,2:24 PM,127 Kedzie Way,4,2,rainy,dry,62,1
+888,12/20/2019,3:26 AM,43374 Hoffman Plaza,2,3,sunny,wet,29,1
+889,7/12/2014,12:47 AM,6 Springs Trail,4,3,foggy,dry,86,1
+890,1/18/2013,2:05 AM,31077 Pierstorff Pass,5,7,snowy,snowy,19,1
+891,5/6/2017,10:07 AM,487 Petterle Court,1,3,rainy,snowy,23,1
+892,3/3/2019,3:20 AM,6710 Center Avenue,10,7,foggy,icy,33,1
+893,5/3/2012,5:52 PM,5214 Steensland Avenue,5,9,snowy,dry,63,1
+894,6/4/2016,10:10 AM,6 Grayhawk Drive,4,8,snowy,snowy,99,1
+895,10/31/2018,2:04 PM,84615 Beilfuss Park,2,13,sunny,icy,65,1
+896,8/19/2014,1:31 AM,393 Drewry Lane,8,15,foggy,snowy,71,1
+897,2/26/2013,8:17 AM,001 Texas Trail,0,6,sunny,wet,78,1
+898,3/12/2016,4:34 PM,1 Old Shore Court,6,16,rainy,snowy,38,1
+899,2/24/2016,8:06 PM,14 Victoria Hill,9,9,snowy,dry,98,1
+900,11/27/2011,11:40 PM,27580 Dovetail Alley,2,18,rainy,snowy,22,1
+901,8/6/2019,3:57 AM,59504 Gina Court,6,8,sunny,dry,64,1
+902,8/28/2012,11:25 AM,571 Utah Plaza,4,13,sunny,snowy,28,1
+903,6/7/2013,8:19 AM,5464 Talmadge Court,1,9,sunny,snowy,16,1
+904,7/28/2015,5:16 AM,106 Mallory Way,6,6,foggy,dry,19,1
+905,3/21/2020,7:46 PM,4421 Jenifer Court,8,6,snowy,icy,52,1
+906,1/5/2019,4:37 PM,8361 La Follette Drive,2,4,foggy,snowy,61,1
+907,11/26/2017,3:06 AM,2933 Schlimgen Trail,4,9,foggy,dry,46,1
+908,12/6/2012,7:35 PM,6768 Harper Lane,7,5,sunny,snowy,45,1
+909,6/3/2014,4:42 AM,8052 Lighthouse Bay Center,4,13,sunny,dry,43,1
+910,10/28/2018,6:30 AM,9095 Upham Way,0,7,sunny,wet,40,1
+911,2/3/2016,5:19 AM,43613 Duke Court,9,12,snowy,icy,51,1
+912,4/11/2015,8:44 PM,103 Continental Way,3,8,sunny,icy,18,1
+913,7/7/2016,8:54 AM,1190 Hallows Junction,6,7,snowy,dry,98,1
+914,8/11/2011,2:23 AM,6331 Homewood Place,6,17,sunny,snowy,39,1
+915,3/10/2012,6:47 PM,8716 Morrow Plaza,1,5,snowy,wet,56,1
+916,12/25/2010,5:40 AM,6 Dexter Trail,10,4,sunny,snowy,33,1
+917,10/9/2012,7:18 AM,18 Lake View Drive,6,8,foggy,snowy,30,1
+918,6/6/2020,6:55 PM,62389 Anhalt Junction,10,1,sunny,snowy,96,1
+919,9/8/2013,10:32 AM,9 Jay Road,0,8,sunny,icy,88,1
+920,5/15/2016,10:17 PM,74 Barby Road,8,6,sunny,icy,56,1
+921,7/7/2011,1:29 PM,5 Aberg Place,6,4,foggy,icy,87,1
+922,2/18/2014,9:52 AM,769 Nobel Terrace,3,1,sunny,wet,22,1
+923,4/17/2013,2:17 PM,33 Sutteridge Junction,9,1,sunny,icy,97,1
+924,4/26/2010,3:25 AM,973 Hudson Road,3,12,sunny,snowy,89,1
+925,2/18/2014,4:39 AM,67527 Hudson Road,0,14,snowy,icy,74,1
+926,1/15/2012,4:27 PM,718 Stuart Crossing,0,5,snowy,snowy,53,1
+927,3/27/2018,12:32 AM,563 Continental Plaza,9,19,snowy,wet,71,1
+928,1/29/2014,6:34 PM,46 Basil Hill,9,8,foggy,wet,45,1
+929,3/11/2020,8:07 PM,21 Elgar Circle,0,2,snowy,wet,65,1
+930,3/16/2020,6:55 PM,41325 Rutledge Way,8,8,rainy,snowy,86,1
+931,3/21/2020,7:16 AM,6 Jackson Trail,3,5,sunny,wet,24,1
+932,7/29/2016,1:23 PM,9331 Vera Court,2,20,sunny,snowy,79,1
+933,9/19/2018,5:58 PM,96 Rowland Trail,4,19,snowy,dry,51,1
+934,5/2/2019,7:56 PM,307 Mcguire Hill,7,20,rainy,icy,27,1
+935,11/25/2015,12:08 AM,72271 Drewry Park,2,18,snowy,snowy,23,1
+936,4/24/2019,1:17 PM,99 Luster Lane,10,5,rainy,icy,71,1
+937,11/25/2019,10:30 PM,53 Village Avenue,8,2,rainy,dry,21,1
+938,3/2/2020,11:22 AM,0 Erie Place,2,14,snowy,snowy,66,1
+939,8/9/2010,10:03 AM,558 Westend Terrace,1,1,foggy,icy,18,1
+940,1/1/2011,6:17 PM,008 Declaration Plaza,4,8,rainy,wet,26,1
+941,8/7/2017,3:45 AM,9678 Moose Place,3,14,snowy,icy,89,1
+942,7/24/2010,1:17 AM,097 Tennyson Street,9,14,foggy,dry,56,1
+943,12/17/2014,2:43 AM,11 Hansons Parkway,5,18,snowy,snowy,67,1
+944,3/25/2016,4:32 PM,9 Merry Place,2,18,foggy,icy,76,1
+945,5/27/2015,11:20 AM,4404 Derek Circle,8,17,foggy,snowy,31,1
+946,8/5/2010,5:28 AM,68194 Tennessee Point,9,11,foggy,dry,61,1
+947,7/5/2016,8:03 PM,105 Sundown Alley,0,3,foggy,snowy,35,1
+948,6/6/2014,3:54 PM,7 Green Ridge Circle,10,11,snowy,snowy,55,1
+949,6/20/2016,10:46 AM,15 Sullivan Point,4,16,rainy,snowy,27,1
+950,3/28/2016,9:54 PM,49978 East Way,2,17,rainy,icy,18,1
+951,6/17/2017,8:38 AM,852 Kennedy Terrace,5,15,foggy,snowy,48,1
+952,9/28/2014,8:50 AM,49482 Forest Run Park,2,17,foggy,icy,25,1
+953,6/27/2010,11:57 AM,564 Hazelcrest Lane,0,12,foggy,snowy,75,1
+954,2/4/2015,4:11 AM,597 Bluejay Road,8,5,rainy,dry,75,1
+955,11/17/2012,1:03 AM,044 Fisk Way,5,2,sunny,icy,47,1
+956,11/14/2016,1:19 AM,715 Arizona Circle,6,9,rainy,snowy,18,1
+957,1/14/2010,7:13 AM,9229 Menomonie Alley,4,8,sunny,icy,79,1
+958,12/25/2013,4:39 AM,030 Dennis Point,3,19,rainy,dry,76,1
+959,4/1/2014,3:08 AM,53671 Heffernan Lane,1,4,foggy,icy,91,1
+960,6/11/2014,3:08 AM,6795 Main Way,9,3,snowy,snowy,51,1
+961,5/8/2020,1:20 PM,995 Sommers Parkway,8,6,sunny,wet,75,1
+962,4/28/2016,1:21 AM,5596 Scott Crossing,0,7,rainy,wet,21,1
+963,3/19/2012,1:10 AM,20 Dahle Trail,3,6,snowy,wet,97,1
+964,7/5/2013,9:42 PM,8 Superior Terrace,8,7,foggy,icy,41,1
+965,11/22/2017,8:28 AM,4 Eliot Point,10,11,snowy,wet,72,1
+966,3/3/2017,5:46 AM,92 American Ash Hill,1,1,foggy,wet,28,1
+967,9/10/2010,9:21 PM,60 Maryland Terrace,2,6,sunny,icy,92,1
+968,5/27/2013,7:54 AM,241 Fallview Hill,5,14,rainy,dry,99,1
+969,4/29/2018,11:44 PM,096 Center Parkway,1,16,sunny,dry,99,1
+970,8/3/2018,12:07 PM,455 Barby Plaza,6,15,rainy,dry,39,1
+971,4/17/2014,2:22 PM,3979 Dottie Pass,9,8,rainy,dry,75,1
+972,3/1/2017,12:55 PM,38 Rusk Street,6,16,foggy,wet,90,1
+973,3/8/2020,2:49 AM,35959 Meadow Valley Crossing,2,4,snowy,wet,98,1
+974,1/18/2011,11:09 AM,5178 Browning Place,1,14,rainy,wet,35,1
+975,10/8/2011,3:21 PM,679 Mcguire Parkway,6,20,snowy,snowy,41,1
+976,1/11/2018,2:10 PM,62343 Stephen Street,7,17,snowy,dry,58,1
+977,12/12/2018,12:50 AM,6 Spohn Court,2,9,rainy,snowy,22,1
+978,4/4/2014,2:01 AM,47194 Troy Crossing,4,3,snowy,icy,17,1
+979,4/16/2014,2:23 PM,290 Loomis Pass,1,15,snowy,wet,74,1
+980,11/9/2018,1:10 AM,4 Acker Junction,5,9,rainy,dry,23,1
+981,5/21/2015,10:55 AM,435 Kensington Road,1,17,snowy,snowy,95,1
+982,6/1/2020,5:58 AM,781 Lakewood Place,2,4,rainy,snowy,84,1
+983,10/22/2014,7:40 PM,6 2nd Lane,6,15,snowy,wet,99,1
+984,5/28/2020,6:37 AM,52254 Becker Circle,5,13,foggy,snowy,78,1
+985,9/13/2012,1:07 AM,78381 Oakridge Alley,10,4,foggy,icy,18,1
+986,3/30/2016,4:50 PM,92 New Castle Terrace,7,20,foggy,wet,61,1
+987,7/20/2015,6:42 PM,6134 Crowley Avenue,6,5,foggy,dry,98,1
+988,8/14/2012,7:35 AM,4 Mockingbird Lane,3,17,sunny,snowy,79,1
+989,10/27/2017,12:17 PM,9 John Wall Road,4,17,rainy,icy,82,1
+990,11/30/2016,10:46 AM,950 Tomscot Street,7,15,sunny,icy,62,1
+991,8/28/2015,9:47 PM,8 Monterey Drive,5,20,foggy,wet,35,1
+992,12/29/2017,11:05 PM,708 Division Hill,1,20,foggy,snowy,68,1
+993,2/20/2015,1:10 PM,8122 Farwell Junction,2,4,foggy,dry,44,1
+994,5/7/2016,2:38 PM,269 Johnson Crossing,1,17,foggy,icy,52,1
+995,12/22/2011,1:24 AM,361 Schiller Trail,10,4,foggy,wet,38,1
+996,7/21/2018,6:53 AM,00 Stuart Center,9,2,snowy,wet,95,1
+997,9/24/2013,1:43 AM,20844 Lien Plaza,9,20,foggy,snowy,84,1
+998,8/27/2016,9:44 AM,32201 Roth Crossing,2,6,sunny,snowy,23,1
+999,4/12/2019,10:42 AM,878 Crest Line Alley,6,15,snowy,dry,71,1
+1000,10/8/2016,10:50 AM,2 Hazelcrest Park,8,14,rainy,snowy,23,1
