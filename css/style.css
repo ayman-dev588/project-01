@@ -46,7 +46,7 @@ a:hover{
 
 .content div{
 	margin-bottom:20px;
-	font-size: 0.8em;
+	font-size: 0.9em;
 }
 
 .instruction{
@@ -56,7 +56,7 @@ a:hover{
 	color: #333;
 	padding: 10px 20px;
 	border-radius: 10px;
-	font-size: 0.8em;
+	font-size: 0.9em;
 	max-width: 230px;
 }
 
@@ -71,7 +71,7 @@ a:hover{
 }
 
 .sources{
-	font-size: 0.7em;
+	font-size: 0.8em;
 }
 
 .data-viz{
