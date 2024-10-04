@@ -1,7 +1,7 @@
 body{
 	background-color: #fff;
 	font-family: 'Armata', sans-serif;
-
+	margin: 0;
 }
 a {
   color: #ccc;
@@ -22,22 +22,26 @@ a:hover{
 	font-weight: bold;
 }
 
+#container{
+	display: flex;
+}
+
 .header{
 	font-size: 0.8em;
 	padding-bottom: 20px;
 }
 
-
 .content{
 	padding:20px;
-	position: fixed;
-	top:0;
-	left: 0;
-	width: 30%;
-	min-width: 300px;
-	height: 100%;
+	width: 20%;
+	float: left;
 	background-color: rgba(0, 0, 0, 0.03);
+}
 
+.content .all{
+	height: 100%;
+	width: 100%;
+	position: fixed;
 }
 
 .content div{
@@ -53,6 +57,7 @@ a:hover{
 	padding: 10px 20px;
 	border-radius: 10px;
 	font-size: 0.8em;
+	max-width: 230px;
 }
 
 .instruction img{
@@ -70,13 +75,20 @@ a:hover{
 }
 
 .data-viz{
-	float:right;
-	max-width:80%;
+	float: left;
+	width: 80%;	
 }
 
-#vis {
-width:100%;
-margin: 0 auto;
+#vis{
+	display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+
+}
+
+#vis svg{
+
 }
 
 #view_selection a{
@@ -86,6 +98,7 @@ margin: 0 auto;
 
 #view_selection{
 	font-size: 0.8em;
+	margin-top: 10px;
 
 	text-align: center;
 }

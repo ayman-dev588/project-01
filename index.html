@@ -18,67 +18,70 @@
 </ul>
 -->
 
-  <div id="container">
-    <div class="data-viz">
-      <div id="view_selection" class="">
-        <span>Filter By:</span>
-        <a href="#" id="all" class="btn active">All</a>
-        <a href="#" id="weather_cond" class="btn">Weather condition</a>
-        <a href="#" id="vehicles" class="btn">Vehciles involved</a>
-        <a href="#" id="fatalities" class="btn">Fatalities</a>
-        <a href="#" id="road_cond" class="btn">Road condition</a>
-      </div>
-	    <div id="vis"></div>
-    </div>
-    </div>
-
-      
-  </div> <!--! end of #container -->
-
-
+  <div id="container">  
   <div class="content">
-<div class="header"><span class="title">CrashStats</span> | NHTSA Traffic Crash Deaths</div>
-
+    <div class="all">
+    <div class="header"><span class="title">CrashStats</span> | NHTSA Traffic Crash Deaths</div>
+    
+        <div>
+        <span class="number">5,930,496</span>
+          motor vehicle crashes occurred in the U.S in 2022
+         </div>
+    
     <div>
-    <span class="number">5,930,496</span>
-motor vehicle crashes occurred in the U.S in 2022
-</div>
+    <span class="number">40,990</span>
+    number of fatalities from these accidents
+    </div>
+    
+    <div>
+    <span class="number">38,500</span>
+    of these deaths were attributable to human error
+    </div>
+    
+    <div>
+    <span class="number">1,105 </span>
+    cyclists were killed in traffic accidents across the U.S
+    </div>
+    
+    <div class="instruction">
+      This visualization is derived from a reduced dataset of 1,000 accidents.
+      <p>
+      <img src="img/color.svg" /> 
+      Each circle represents a fatal accident, with its color indicating the weather conditions at the time.
+    </p>
+    
+    <p>
+      <img src="img/size.svg" />
+      The size indicates the number of vehicles involved in the accident.
+    </p>
+    
+    <p><b>Hover over any circle to see the accident details.</b></p>
+    
+    </div>
+    
+    <div class="footer">
+    
+      <span class="sources">sources: <a href="https://www.nhtsa.gov/press-releases/2022-traffic-deaths-2023-early-estimates"  target="_blank"> NHTSA  2023 1 </a><a href="https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813560" target="_blank"> Crash stats</a></span>
+    </div>  
+  </div>
+  </div><!--.content-->
 
-<div>
-<span class="number">40,990</span>
-number of fatalities from these accidents
-</div>
 
-<div>
-<span class="number">38,500</span>
-of these deaths were attributable to human error
-</div>
+  <div class="data-viz">
+    <div id="view_selection" class="">
+      <span>Filter By:</span>
+      <a href="#" id="all" class="btn active">All</a>
+      <a href="#" id="weather_cond" class="btn">Weather condition</a>
+      <a href="#" id="vehicles" class="btn">Vehciles involved</a>
+      <a href="#" id="fatalities" class="btn">Fatalities</a>
+      <a href="#" id="road_cond" class="btn">Road condition</a>
+    </div>
+    <div id="vis"></div>
+  </div><!--.data-viz-->
 
-<div>
-<span class="number">1,105 </span>
-cyclists were killed in traffic accidents across the U.S
-</div>
+  </div> <!--! end of #container -->
+  
 
-<div class="instruction">
-  This visualization is derived from a reduced dataset of 1,000 accidents.
-  <p>
-  <img src="img/color.svg" /> 
-  Each circle represents a fatal accident, with its color indicating the weather conditions at the time.
-</p>
-
-<p>
-  <img src="img/size.svg" />
-  The size indicates the number of vehicles involved in the accident.
-</p>
-
-<p><b>Hover over any circle to see the accident details.</b></p>
-
-</div>
-
-<div class="footer">
-
-  <span class="sources">sources: <a href="https://www.nhtsa.gov/press-releases/2022-traffic-deaths-2023-early-estimates"  target="_blank"> NHTSA  2023 1 </a><a href="https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813560" target="_blank"> Crash stats</a></span>
-</div>
 
 
   <script type="text/javascript" src="https://code.jquery.com/jquery-latest.js"></script>
