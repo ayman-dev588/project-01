@@ -42,6 +42,7 @@ a:hover{
 	height: 100%;
 	width: 100%;
 	position: fixed;
+	z-index: 0;
 }
 
 .content div{
@@ -77,6 +78,7 @@ a:hover{
 .data-viz{
 	float: left;
 	width: 80%;	
+	z-index: 1;
 }
 
 #vis{
@@ -117,9 +119,9 @@ font-family: 'Armata', sans-serif;
 	line-height:25px;
     -moz-border-radius:10px;
 	border-radius: 10px;
-  border: 2px solid #fff;
+  border: 0px solid #fff;
 	/* background: #222222; */
-  background: rgba(0, 0, 0, 0.85);
+  background: rgba(41, 41, 41, 0.88);
 	/* color: #eeeeee; */
   color: #fff;
 	padding: 13px;
